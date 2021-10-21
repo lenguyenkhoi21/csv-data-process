@@ -5,6 +5,7 @@ const { writeToPath } = require('@fast-csv/format')
 
 const myPromise = new Promise((resolve, reject) => {
     const data = []
+    const map = new Map()
     fs.createReadStream(path.resolve(__dirname, 'Book1.csv'))
         .pipe(csv.parse({headers: true}))
         .on('error', error => {
@@ -12,16 +13,35 @@ const myPromise = new Promise((resolve, reject) => {
             reject()
         })
         .on('data', row => {
-            console.log(row)
+            //console.log("row: " +  row[`ID`] + " " + row[`Name`])
+
+            if (map.get(row[`ID`]) === undefined) {
+                map.set(row[`ID`], parseFloat(row[`Name`]))
+                //console.log(map.get(row[`ID`]))
+            } else {
+                const newPrice = row[`Name`]
+                const olPrice = map.get(row[`ID`])
+                if (newPrice < olPrice) {
+                    map.set(row[`ID`], newPrice)
+                }
+                //console.log(map.get(row[`ID`]))
+            }
+
+            console.log("The smallest " +  map.get(row[`ID`]))
             data.push(row)
         })
         .on('end', rowCount => {
             console.log(`Parsed ${rowCount} rows`)
-            resolve(data)
+            resolve({
+                data : data,
+                map : map
+            })
         })
 })
 
-const handle = (data) => {
+const handle = ({data, map}) => {
+    console.log(map)
+
     const keys = Object.keys(data[0])
     keys.push("Secret")
     console.log(data)
@@ -52,7 +72,9 @@ myPromise
         console.log(reason)
     })
 
-
+// const map = new Map()
+// map.set('a', 1)
+// console.log(map.get(`b`))
 
 
 
