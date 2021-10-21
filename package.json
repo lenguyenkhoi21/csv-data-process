@@ -9,7 +9,8 @@
     "gpu" : "node ./ProcessDataGPU.js",
     "merchant" : "node ./ProcessMerchant.js",
     "factprice" : "node ./ProcessFactPrice.js",
-    "prodcut_category" : "node ./ProcessSales.csv.js"
+    "prodcut_category" : "node ./ProcessSales.csv.js",
+    "product_category_next" : "node ./ProcessSalesNext.js"
   },
   "author": "",
   "license": "ISC",

@@ -65,21 +65,26 @@ const writeCSV = (data) => {
         .on('finish', () => console.log('Done writing.'));
 }
 
-myPromise
-    .then(handle)
-    .then(writeCSV)
-    .catch(reason => {
-        console.log(reason)
-    })
+// myPromise
+//     .then(handle)
+//     .then(writeCSV)
+//     .catch(reason => {
+//         console.log(reason)
+//     })
 
-const map = new Map()
-map.set('a', 1)
-const col = `a`
-console.log(map.get(col))
+// const map = new Map()
+// map.set('a', 1)
+// const col = `a`
+// console.log(map.get(col))
 
 
 // const row = {name : `Khoi`}
 //
 // row[`age`] = 23
 // console.log(row)
+
+const string = "Khoi Milu"
+const data = string.split(" ")
+
+console.log(data)
 
