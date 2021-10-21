@@ -5,14 +5,16 @@ const { writeToPath } = require('@fast-csv/format')
 
 const dataflow = new Promise((resolve, reject) => {
     const FACT_GPU_PRICE = 'FACT_GPU_PRICE.csv'
+    const Id = `Id`
     const ProdId = `ProdId`
     const TimeId = `TimeId`
     const RegionId = `RegionId`
     const MerchantId = `MerchantId`
     const Price_USD = `Price_USD`
-    const headers = [ProdId, TimeId, RegionId, MerchantId, Price_USD]
+    const headers = [Id, ProdId, TimeId, RegionId, MerchantId, Price_USD]
     const data = []
     data.push(headers)
+    let index = 0
     fs.createReadStream(path.resolve(__dirname, FACT_GPU_PRICE))
         .pipe(csv.parse({headers: true}))
         .on('error', error => {
@@ -22,6 +24,7 @@ const dataflow = new Promise((resolve, reject) => {
         })
         .on('data', row => {
             const newRow = {}
+            newRow[Id] = ++index
             newRow[ProdId] = row[ProdId]
             newRow[TimeId] = row[TimeId]
             newRow[RegionId] = row[RegionId]
