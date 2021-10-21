@@ -1,0 +1,131 @@
+Product_id,Product_name,Unit_Cost,Unit_Price
+1,Hitch Rack - 4-Bike,45,120
+2,All-Purpose Bike Stand,59,159
+3,Mountain Bottle Cage,4,10
+4,Water Bottle - 30 oz.,2,5
+5,Road Bottle Cage,3,9
+6,AWC Logo Cap,7,9
+7,Bike Wash - Dissolver,3,8
+8,Fender Set - Mountain,8,22
+9,"Half-Finger Gloves, L",9,24
+10,"Half-Finger Gloves, M",9,24
+11,"Half-Finger Gloves, S",9,24
+12,"Sport-100 Helmet, Black",13,35
+13,"Sport-100 Helmet, Red",13,35
+14,"Sport-100 Helmet, Blue",13,35
+15,Hydration Pack - 70 oz.,21,55
+16,"Short-Sleeve Classic Jersey, XL",42,54
+17,"Short-Sleeve Classic Jersey, L",42,54
+18,"Short-Sleeve Classic Jersey, M",42,54
+19,"Short-Sleeve Classic Jersey, S",42,54
+20,"Long-Sleeve Logo Jersey, M",38,50
+21,"Long-Sleeve Logo Jersey, XL",38,50
+22,"Long-Sleeve Logo Jersey, L",38,50
+23,"Long-Sleeve Logo Jersey, S",38,50
+24,"Mountain-100 Silver, 38",1912,3400
+25,"Mountain-100 Silver, 44",1912,3400
+26,"Mountain-100 Black, 48",1898,3375
+27,"Mountain-100 Silver, 48",1912,3400
+28,"Mountain-100 Black, 38",1898,3375
+29,"Mountain-200 Silver, 38",1266,2320
+30,"Mountain-100 Black, 44",1898,3375
+31,"Mountain-100 Silver, 42",1912,3400
+32,"Mountain-200 Black, 46",1252,2295
+33,"Mountain-200 Silver, 42",1266,2320
+34,"Mountain-200 Silver, 46",1266,2320
+35,"Mountain-200 Black, 38",1252,2295
+36,"Mountain-100 Black, 42",1898,3375
+37,"Mountain-200 Black, 42",1252,2295
+38,"Mountain-400-W Silver, 46",420,769
+39,"Mountain-500 Silver, 40",308,565
+40,"Mountain-500 Silver, 44",308,565
+41,"Mountain-500 Black, 48",295,540
+42,"Mountain-500 Black, 40",295,540
+43,"Mountain-400-W Silver, 42",420,769
+44,"Mountain-500 Silver, 52",308,565
+45,"Mountain-500 Black, 52",295,540
+46,"Mountain-500 Silver, 42",308,565
+47,"Mountain-500 Black, 44",295,540
+48,"Mountain-500 Silver, 48",308,565
+49,"Mountain-400-W Silver, 38",420,769
+50,"Mountain-400-W Silver, 40",420,769
+51,"Mountain-500 Black, 42",295,540
+52,"Road-150 Red, 48",2171,3578
+53,"Road-150 Red, 62",2171,3578
+54,"Road-750 Black, 48",344,540
+55,"Road-750 Black, 58",344,540
+56,"Road-750 Black, 52",344,540
+57,"Road-150 Red, 52",2171,3578
+58,"Road-150 Red, 44",2171,3578
+59,"Road-150 Red, 56",2171,3578
+60,"Road-750 Black, 44",344,540
+61,"Road-350-W Yellow, 40",1083,1701
+62,"Road-350-W Yellow, 42",1083,1701
+63,"Road-250 Black, 44",1555,2443
+64,"Road-250 Black, 48",1555,2443
+65,"Road-350-W Yellow, 48",1083,1701
+66,"Road-550-W Yellow, 44",713,1120
+67,"Road-550-W Yellow, 38",713,1120
+68,"Road-250 Black, 52",1555,2443
+69,"Road-550-W Yellow, 48",713,1120
+70,"Road-250 Red, 58",1555,2443
+71,"Road-250 Black, 58",1555,2443
+72,"Road-250 Red, 52",1519,2443
+73,"Road-250 Red, 48",1519,2443
+74,"Road-250 Red, 44",1519,2443
+75,"Road-550-W Yellow, 42",713,1120
+76,"Road-550-W Yellow, 40",713,1120
+77,"Road-650 Red, 48",487,783
+78,"Road-650 Red, 60",487,783
+79,"Road-650 Black, 48",487,783
+80,"Road-350-W Yellow, 44",1083,1701
+81,"Road-650 Red, 52",487,783
+82,"Road-650 Black, 44",487,783
+83,"Road-650 Red, 62",487,783
+84,"Road-650 Red, 58",487,783
+85,"Road-650 Black, 60",487,783
+86,"Road-650 Black, 58",487,783
+87,"Road-650 Black, 52",487,783
+88,"Road-650 Black, 62",487,783
+89,"Road-650 Red, 44",487,783
+90,"Women's Mountain Shorts, M",26,70
+91,"Women's Mountain Shorts, S",26,70
+92,"Women's Mountain Shorts, L",26,70
+93,"Racing Socks, L",3,9
+94,"Racing Socks, M",3,9
+95,Mountain Tire Tube,2,5
+96,Touring Tire Tube,2,5
+97,Patch Kit/8 Patches,1,2
+98,HL Mountain Tire,13,35
+99,LL Mountain Tire,9,25
+100,Road Tire Tube,1,4
+101,LL Road Tire,8,21
+102,Touring Tire,11,29
+103,ML Mountain Tire,11,30
+104,HL Road Tire,12,33
+105,ML Road Tire,9,25
+106,"Touring-1000 Yellow, 50",1482,2384
+107,"Touring-1000 Blue, 46",1482,2384
+108,"Touring-1000 Yellow, 60",1482,2384
+109,"Touring-1000 Blue, 50",1482,2384
+110,"Touring-3000 Yellow, 50",461,742
+111,"Touring-3000 Blue, 54",461,742
+112,"Touring-3000 Blue, 58",461,742
+113,"Touring-3000 Yellow, 44",461,742
+114,"Touring-3000 Yellow, 54",461,742
+115,"Touring-3000 Blue, 62",461,742
+116,"Touring-3000 Blue, 44",461,742
+117,"Touring-1000 Blue, 54",1482,2384
+118,"Touring-1000 Yellow, 46",1482,2384
+119,"Touring-1000 Blue, 60",1482,2384
+120,"Touring-3000 Yellow, 62",461,742
+121,"Touring-1000 Yellow, 54",1482,2384
+122,"Touring-2000 Blue, 54",755,1215
+123,"Touring-3000 Blue, 50",461,742
+124,"Touring-3000 Yellow, 58",461,742
+125,"Touring-2000 Blue, 46",755,1215
+126,"Touring-2000 Blue, 50",755,1215
+127,"Touring-2000 Blue, 60",755,1215
+128,"Classic Vest, L",24,64
+129,"Classic Vest, M",24,64
+130,"Classic Vest, S",24,64
