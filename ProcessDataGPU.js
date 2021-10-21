@@ -3,40 +3,42 @@ const path = require('path')
 const csv = require('fast-csv')
 const { writeToPath } = require('@fast-csv/format')
 
-const dataflow = new Promise((resolve, reject) => {
-    const map = new Map()
-    const FACT_GPU_PRICE = 'FACT_GPU_PRICE.csv'
-    const colId = `ProdId`
-    const colPrice = `Price_Original`
-    fs.createReadStream(path.resolve(__dirname, FACT_GPU_PRICE))
-        .pipe(csv.parse({headers: true}))
-        .on('error', error => {
-            console.log(`Error at processing file ${FACT_GPU_PRICE}`)
-            console.log(error)
-            reject(error)
-        })
-        .on('data', row => {
-            if (map.get(row[colId]) === undefined) {
-                map.set(row[colId], parseFloat(row[colPrice]))
-            } else {
-                const newPrice = row[colPrice]
-                const olPrice = map.get(row[colId])
-                if (olPrice > newPrice) {
-                    map.set(row[colId], newPrice)
+const readingGPUPrice = () => {
+    return new Promise((resolve, reject) => {
+        const map = new Map()
+        const FACT_GPU_PRICE = 'FACT_GPU_PRICE.csv'
+        const colId = `ProdId`
+        const colPrice = `Price_Original`
+        fs.createReadStream(path.resolve(__dirname, FACT_GPU_PRICE))
+            .pipe(csv.parse({headers: true}))
+            .on('error', error => {
+                console.log(`Error at processing file ${FACT_GPU_PRICE}`)
+                console.log(error)
+                reject(error)
+            })
+            .on('data', row => {
+                if (map.get(row[colId]) === undefined) {
+                    map.set(row[colId], parseFloat(row[colPrice]))
+                } else {
+                    const newPrice = row[colPrice]
+                    const olPrice = map.get(row[colId])
+                    if (olPrice > newPrice) {
+                        map.set(row[colId], newPrice)
+                    }
                 }
-            }
-        })
-        .on('end', rowCount => {
-            console.log(`Parsed ${rowCount} rows in file ${FACT_GPU_PRICE}`)
-            resolve(map)
-        })
-})
+            })
+            .on('end', rowCount => {
+                console.log(`Parsed ${rowCount} rows in file ${FACT_GPU_PRICE}`)
+                resolve(map)
+            })
+    })
+}
 
-dataflow.then(map => {
-    const readGPUData = new Promise((resolve, reject) => {
+const readGPUData = (map) => {
+    return new Promise((resolve, reject) => {
         const GPU_PROD = 'DIM_GPU_PROD.csv'
         const Id = 'Id'
-        const header = [`Id`,`Processor_Manufacturer`,`Processor`,`GPU_Manufacturer`, `Memory_Capacity`, `Memory_Type`, `Price_Original`]
+        const header = [`Id`, `Processor_Manufacturer`, `Processor`, `GPU_Manufacturer`, `Memory_Capacity`, `Memory_Type`, `Price_Original`]
         const data = []
         data.push(header)
         const Price_Original = 'Price_Original'
@@ -55,23 +57,22 @@ dataflow.then(map => {
                 resolve(data)
             })
     })
-
-    const writeData = (data) => {
-        writeToPath(path.resolve(__dirname, 'gpu.csv'), data)
-            .on('error', err => console.error(err))
-            .on('finish', () => console.log('Done writing.'))
-    }
-
-    readGPUData
-        .then(writeData)
-        .catch(reason => {
-            console.log(reason)
-        })
-})
-    .catch(reason => {
-        console.log(reason)
-    })
+}
 
 
+const writeData = async (data) => {
+    writeToPath(path.resolve(__dirname, 'gpu.csv'), data)
+        .on('error', err => console.error(err))
+        .on('finish', () => console.log('Done writing.'))
+}
+
+const gpuDataProcess = async () => {
+    const price = await readingGPUPrice()
+    const data = await readGPUData(price)
+    await writeData(data)
+    return "Success"
+}
+
+gpuDataProcess().then(message => console.log(message))
 
 
