@@ -36,9 +36,10 @@ dataflow.then(map => {
     const readGPUData = new Promise((resolve, reject) => {
         const GPU_PROD = 'DIM_GPU_PROD.csv'
         const Id = 'Id'
+        const header = [`Id`,`Processor_Manufacturer`,`Processor`,`GPU_Manufacturer`, `Memory_Capacity`, `Memory_Type`, `Price_Original`]
         const data = []
+        data.push(header)
         const Price_Original = 'Price_Original'
-        let index = 0
         fs.createReadStream(path.resolve(__dirname, GPU_PROD))
             .pipe(csv.parse({headers: true}))
             .on('error', error => {
@@ -46,7 +47,7 @@ dataflow.then(map => {
                 reject(error)
             })
             .on('data', row => {
-                row[Price_Original] = map.get(row[Id])
+                row[Price_Original] = map.get(row[Id]) === undefined ? 0 : map.get(row[Id])
                 data.push(row)
             })
             .on('end', rowCount => {
