@@ -30,7 +30,7 @@ const dataflow = new Promise((resolve, reject) => {
         })
 })
 
-const processGPUData = ({map}) => {
+const readGPUData = ({map}) => {
     const GPU_PROD = 'DIM_GPU_PROD.csv'
     const data = []
 }
