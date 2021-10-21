@@ -6,7 +6,9 @@
   "scripts": {
     "start": "node ./index.js",
     "transfrom" : "node ./Tranform.js",
-    "gpu" : "node ./ProcessDataGPU.js"
+    "gpu" : "node ./ProcessDataGPU.js",
+    "merchant" : "node ./ProcessMerchant.js",
+    "factprice" : "node ./ProcessFactPrice.js"
   },
   "author": "",
   "license": "ISC",

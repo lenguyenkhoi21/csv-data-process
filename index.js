@@ -72,10 +72,14 @@ myPromise
         console.log(reason)
     })
 
-// const map = new Map()
-// map.set('a', 1)
-// console.log(map.get(`b`))
+const map = new Map()
+map.set('a', 1)
+const col = `a`
+console.log(map.get(col))
 
 
-
+// const row = {name : `Khoi`}
+//
+// row[`age`] = 23
+// console.log(row)
 
