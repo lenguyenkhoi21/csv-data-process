@@ -1,0 +1,2163 @@
+Customer_Id,Customer_Age,Age_Group,Customer_Gender,Country,State
+1,19,Youth (<25),M,Canada,British Columbia
+2,49,Adults (35-64),M,Australia,New South Wales
+3,47,Adults (35-64),F,Australia,New South Wales
+4,47,Adults (35-64),F,Australia,Victoria
+5,35,Adults (35-64),M,Australia,Victoria
+6,32,Young Adults (25-34),F,Australia,Victoria
+7,34,Young Adults (25-34),M,Australia,Victoria
+8,29,Young Adults (25-34),M,Canada,British Columbia
+9,51,Adults (35-64),M,United States,Oregon
+10,49,Adults (35-64),M,Canada,British Columbia
+11,48,Adults (35-64),F,Canada,British Columbia
+12,47,Adults (35-64),F,Canada,British Columbia
+13,32,Young Adults (25-34),F,United States,Oregon
+14,34,Young Adults (25-34),M,Canada,British Columbia
+15,43,Adults (35-64),F,United States,California
+16,61,Adults (35-64),M,United States,California
+17,57,Adults (35-64),M,Canada,British Columbia
+18,29,Young Adults (25-34),F,Canada,British Columbia
+19,38,Adults (35-64),M,Germany,Saarland
+20,52,Adults (35-64),F,France,Seine Saint Denis
+21,43,Adults (35-64),F,France,Moselle
+22,24,Youth (<25),F,Australia,Queensland
+23,23,Youth (<25),M,United States,California
+24,29,Young Adults (25-34),F,United Kingdom,England
+25,32,Young Adults (25-34),M,France,Nord
+26,19,Youth (<25),F,Germany,Saarland
+27,26,Young Adults (25-34),F,Canada,British Columbia
+28,35,Adults (35-64),M,Canada,British Columbia
+29,38,Adults (35-64),F,United States,California
+30,54,Adults (35-64),F,Australia,Queensland
+31,51,Adults (35-64),F,United States,Washington
+32,47,Adults (35-64),F,United States,California
+33,46,Adults (35-64),M,United States,Washington
+34,46,Adults (35-64),M,United States,California
+35,41,Adults (35-64),F,Germany,Hessen
+36,32,Young Adults (25-34),M,United States,Washington
+37,32,Young Adults (25-34),M,United States,California
+38,33,Young Adults (25-34),F,Canada,British Columbia
+39,42,Adults (35-64),M,United States,California
+40,42,Adults (35-64),M,United States,Oregon
+41,43,Adults (35-64),F,United States,Washington
+42,45,Adults (35-64),F,United States,Washington
+43,53,Adults (35-64),M,United Kingdom,England
+44,21,Youth (<25),F,Australia,Victoria
+45,34,Young Adults (25-34),F,Australia,New South Wales
+46,22,Youth (<25),F,United States,California
+47,67,Seniors (64+),F,United States,California
+48,31,Young Adults (25-34),M,United States,Washington
+49,31,Young Adults (25-34),M,United States,Oregon
+50,37,Adults (35-64),M,France,Nord
+51,26,Young Adults (25-34),M,Australia,Queensland
+52,87,Seniors (64+),F,Germany,Saarland
+53,25,Young Adults (25-34),F,Germany,Nordrhein-Westfalen
+54,31,Young Adults (25-34),F,Germany,Hamburg
+55,32,Young Adults (25-34),F,France,Loir et Cher
+56,25,Young Adults (25-34),M,Canada,British Columbia
+57,26,Young Adults (25-34),F,United States,Washington
+58,33,Young Adults (25-34),M,Australia,Queensland
+59,29,Young Adults (25-34),F,United States,Oregon
+60,24,Youth (<25),F,United States,Oregon
+61,31,Young Adults (25-34),M,United States,California
+62,40,Adults (35-64),M,United States,Kentucky
+63,44,Adults (35-64),M,Australia,New South Wales
+64,21,Youth (<25),F,Canada,British Columbia
+65,25,Young Adults (25-34),M,United States,Oregon
+66,25,Young Adults (25-34),M,United States,California
+67,29,Young Adults (25-34),F,United States,California
+68,55,Adults (35-64),F,United States,Washington
+69,55,Adults (35-64),M,United States,Washington
+70,55,Adults (35-64),M,United States,Oregon
+71,53,Adults (35-64),F,United States,California
+72,50,Adults (35-64),F,United States,Washington
+73,55,Adults (35-64),M,United States,California
+74,59,Adults (35-64),F,United States,Washington
+75,24,Youth (<25),M,Australia,New South Wales
+76,24,Youth (<25),F,Australia,Victoria
+77,26,Young Adults (25-34),M,Australia,New South Wales
+78,26,Young Adults (25-34),M,Australia,Victoria
+79,23,Youth (<25),M,Germany,Saarland
+80,17,Youth (<25),M,United Kingdom,England
+81,31,Young Adults (25-34),F,United Kingdom,England
+82,32,Young Adults (25-34),F,United States,Washington
+83,37,Adults (35-64),F,Canada,British Columbia
+84,49,Adults (35-64),M,Australia,Victoria
+85,42,Adults (35-64),M,Australia,Victoria
+86,35,Adults (35-64),F,Australia,Queensland
+87,27,Young Adults (25-34),F,United Kingdom,England
+88,28,Young Adults (25-34),F,Germany,Nordrhein-Westfalen
+89,45,Adults (35-64),F,France,Seine (Paris)
+90,50,Adults (35-64),M,Germany,Hessen
+91,36,Adults (35-64),F,Australia,South Australia
+92,44,Adults (35-64),M,United States,California
+93,42,Adults (35-64),F,France,Nord
+94,29,Young Adults (25-34),M,United States,Oregon
+95,29,Young Adults (25-34),M,United States,California
+96,31,Young Adults (25-34),M,Canada,British Columbia
+97,29,Young Adults (25-34),M,France,Nord
+98,41,Adults (35-64),M,Canada,British Columbia
+99,41,Adults (35-64),F,United States,California
+100,32,Young Adults (25-34),F,Germany,Hessen
+101,32,Young Adults (25-34),M,United Kingdom,England
+102,32,Young Adults (25-34),F,Germany,Nordrhein-Westfalen
+103,35,Adults (35-64),M,France,Loiret
+104,53,Adults (35-64),F,France,Seine (Paris)
+105,56,Adults (35-64),M,United States,California
+106,24,Youth (<25),F,Canada,Alberta
+107,35,Adults (35-64),F,Australia,New South Wales
+108,27,Young Adults (25-34),F,Canada,British Columbia
+109,31,Young Adults (25-34),F,Canada,British Columbia
+110,28,Young Adults (25-34),F,United States,Washington
+111,28,Young Adults (25-34),F,Australia,New South Wales
+112,27,Young Adults (25-34),M,Germany,Hamburg
+113,31,Young Adults (25-34),F,Australia,Queensland
+114,58,Adults (35-64),F,Australia,South Australia
+115,30,Young Adults (25-34),M,United States,California
+116,52,Adults (35-64),M,United States,Washington
+117,51,Adults (35-64),M,Canada,British Columbia
+118,47,Adults (35-64),M,Canada,British Columbia
+119,45,Adults (35-64),M,Canada,British Columbia
+120,33,Young Adults (25-34),M,Canada,British Columbia
+121,33,Young Adults (25-34),M,United States,Washington
+122,37,Adults (35-64),M,United States,Oregon
+123,59,Adults (35-64),M,Germany,Bayern
+124,31,Young Adults (25-34),M,Australia,Queensland
+125,31,Young Adults (25-34),F,United States,Oregon
+126,18,Youth (<25),F,Germany,Hessen
+127,42,Adults (35-64),F,Canada,British Columbia
+128,32,Young Adults (25-34),M,France,Seine (Paris)
+129,35,Adults (35-64),F,United Kingdom,England
+130,21,Youth (<25),F,Germany,Nordrhein-Westfalen
+131,28,Young Adults (25-34),F,United Kingdom,England
+132,53,Adults (35-64),M,United States,Oregon
+133,45,Adults (35-64),F,Canada,British Columbia
+134,59,Adults (35-64),M,Canada,British Columbia
+135,40,Adults (35-64),F,Germany,Nordrhein-Westfalen
+136,27,Young Adults (25-34),M,United States,California
+137,30,Young Adults (25-34),F,United States,California
+138,32,Young Adults (25-34),M,Canada,British Columbia
+139,33,Young Adults (25-34),M,United States,Oregon
+140,48,Adults (35-64),F,United States,California
+141,46,Adults (35-64),F,United States,California
+142,34,Young Adults (25-34),F,Australia,Queensland
+143,19,Youth (<25),F,United States,Oregon
+144,34,Young Adults (25-34),F,Canada,British Columbia
+145,62,Adults (35-64),F,United States,Washington
+146,45,Adults (35-64),M,Australia,Victoria
+147,45,Adults (35-64),M,Australia,Queensland
+148,41,Adults (35-64),M,Australia,Queensland
+149,35,Adults (35-64),F,United States,California
+150,25,Young Adults (25-34),M,Germany,Hamburg
+151,40,Adults (35-64),F,United States,Washington
+152,40,Adults (35-64),F,Canada,British Columbia
+153,38,Adults (35-64),F,United Kingdom,England
+154,29,Young Adults (25-34),F,France,Hauts de Seine
+155,29,Young Adults (25-34),M,France,Seine (Paris)
+156,51,Adults (35-64),M,United States,California
+157,44,Adults (35-64),M,Canada,British Columbia
+158,39,Adults (35-64),M,Canada,British Columbia
+159,38,Adults (35-64),F,Australia,Queensland
+160,19,Youth (<25),M,United States,Washington
+161,62,Adults (35-64),F,United States,California
+162,37,Adults (35-64),F,United States,California
+163,43,Adults (35-64),F,Canada,British Columbia
+164,45,Adults (35-64),M,United States,Washington
+165,26,Young Adults (25-34),M,United Kingdom,England
+166,35,Adults (35-64),F,Germany,Hessen
+167,29,Young Adults (25-34),M,United Kingdom,England
+168,39,Adults (35-64),M,United States,California
+169,17,Youth (<25),M,Canada,British Columbia
+170,61,Adults (35-64),M,Canada,British Columbia
+171,54,Adults (35-64),F,Canada,Alberta
+172,48,Adults (35-64),F,United Kingdom,England
+173,24,Youth (<25),M,Australia,Victoria
+174,35,Adults (35-64),M,United Kingdom,England
+175,49,Adults (35-64),M,Australia,South Australia
+176,19,Youth (<25),M,United States,California
+177,42,Adults (35-64),M,United Kingdom,England
+178,44,Adults (35-64),F,France,Yveline
+179,45,Adults (35-64),F,France,Hauts de Seine
+180,27,Young Adults (25-34),M,France,Seine Saint Denis
+181,22,Youth (<25),M,France,Yveline
+182,23,Youth (<25),F,United Kingdom,England
+183,58,Adults (35-64),M,France,Seine (Paris)
+184,18,Youth (<25),M,Australia,South Australia
+185,23,Youth (<25),F,France,Nord
+186,46,Adults (35-64),M,Australia,New South Wales
+187,52,Adults (35-64),F,Canada,British Columbia
+188,47,Adults (35-64),F,United Kingdom,England
+189,25,Young Adults (25-34),M,France,Nord
+190,49,Adults (35-64),F,United Kingdom,England
+191,32,Young Adults (25-34),M,Australia,Victoria
+192,36,Adults (35-64),M,United States,California
+193,42,Adults (35-64),M,Canada,British Columbia
+194,34,Young Adults (25-34),M,Germany,Saarland
+195,25,Young Adults (25-34),F,Canada,British Columbia
+196,39,Adults (35-64),M,France,Seine Saint Denis
+197,30,Young Adults (25-34),F,France,Yveline
+198,54,Adults (35-64),F,Canada,British Columbia
+199,29,Young Adults (25-34),M,United States,Washington
+200,31,Young Adults (25-34),F,United States,Washington
+201,40,Adults (35-64),M,Canada,British Columbia
+202,25,Young Adults (25-34),M,France,Essonne
+203,22,Youth (<25),F,Germany,Saarland
+204,34,Young Adults (25-34),M,Germany,Bayern
+205,33,Young Adults (25-34),M,Australia,Victoria
+206,62,Adults (35-64),M,United States,California
+207,42,Adults (35-64),M,France,Seine (Paris)
+208,47,Adults (35-64),M,United Kingdom,England
+209,26,Young Adults (25-34),M,Canada,British Columbia
+210,45,Adults (35-64),M,Germany,Saarland
+211,22,Youth (<25),F,Australia,New South Wales
+212,57,Adults (35-64),M,United States,Washington
+213,49,Adults (35-64),F,United States,California
+214,61,Adults (35-64),M,United States,Washington
+215,40,Adults (35-64),M,United States,California
+216,38,Adults (35-64),M,United States,California
+217,56,Adults (35-64),M,Germany,Bayern
+218,36,Adults (35-64),M,United States,Washington
+219,37,Adults (35-64),F,United States,Oregon
+220,43,Adults (35-64),M,United States,Oregon
+221,44,Adults (35-64),F,United Kingdom,England
+222,45,Adults (35-64),F,United Kingdom,England
+223,18,Youth (<25),F,United Kingdom,England
+224,45,Adults (35-64),M,Germany,Nordrhein-Westfalen
+225,59,Adults (35-64),M,Australia,South Australia
+226,27,Young Adults (25-34),M,United Kingdom,England
+227,39,Adults (35-64),F,Australia,Victoria
+228,32,Young Adults (25-34),M,United States,Oregon
+229,35,Adults (35-64),M,United States,California
+230,17,Youth (<25),M,United States,Washington
+231,40,Adults (35-64),F,United States,California
+232,40,Adults (35-64),M,United States,Washington
+233,43,Adults (35-64),M,United States,California
+234,48,Adults (35-64),M,United States,Oregon
+235,41,Adults (35-64),M,United States,California
+236,34,Young Adults (25-34),F,United States,Oregon
+237,32,Young Adults (25-34),M,Australia,New South Wales
+238,18,Youth (<25),F,United States,California
+239,24,Youth (<25),F,United States,California
+240,53,Adults (35-64),F,Canada,British Columbia
+241,50,Adults (35-64),M,Canada,British Columbia
+242,40,Adults (35-64),F,France,Essonne
+243,37,Adults (35-64),M,Canada,British Columbia
+244,59,Adults (35-64),M,United States,California
+245,52,Adults (35-64),M,United Kingdom,England
+246,44,Adults (35-64),F,United States,California
+247,30,Young Adults (25-34),F,France,Val d'Oise
+248,33,Young Adults (25-34),M,France,Moselle
+249,38,Adults (35-64),F,Canada,British Columbia
+250,24,Youth (<25),M,United States,California
+251,25,Young Adults (25-34),F,United States,California
+252,28,Young Adults (25-34),M,Canada,British Columbia
+253,28,Young Adults (25-34),F,Canada,British Columbia
+254,33,Young Adults (25-34),F,United States,California
+255,36,Adults (35-64),F,United States,Washington
+256,30,Young Adults (25-34),F,Australia,Victoria
+257,34,Young Adults (25-34),F,United States,Washington
+258,36,Adults (35-64),F,United Kingdom,England
+259,26,Young Adults (25-34),F,Australia,Queensland
+260,33,Young Adults (25-34),F,United Kingdom,England
+261,19,Youth (<25),M,United Kingdom,England
+262,23,Youth (<25),F,Australia,New South Wales
+263,24,Youth (<25),F,Australia,New South Wales
+264,25,Young Adults (25-34),M,Australia,New South Wales
+265,25,Young Adults (25-34),M,Australia,South Australia
+266,26,Young Adults (25-34),F,Australia,New South Wales
+267,30,Young Adults (25-34),M,Australia,New South Wales
+268,32,Young Adults (25-34),F,Australia,New South Wales
+269,31,Young Adults (25-34),M,Australia,New South Wales
+270,44,Adults (35-64),F,Australia,South Australia
+271,51,Adults (35-64),F,United States,California
+272,64,Adults (35-64),F,United States,California
+273,52,Adults (35-64),M,United States,California
+274,54,Adults (35-64),F,United Kingdom,England
+275,24,Youth (<25),M,United Kingdom,England
+276,63,Adults (35-64),F,Germany,Saarland
+277,33,Young Adults (25-34),M,Germany,Hessen
+278,20,Youth (<25),F,Germany,Saarland
+279,20,Youth (<25),F,United Kingdom,England
+280,42,Adults (35-64),M,Australia,New South Wales
+281,37,Adults (35-64),M,Australia,Victoria
+282,60,Adults (35-64),M,Australia,Queensland
+283,58,Adults (35-64),M,Australia,New South Wales
+284,28,Young Adults (25-34),M,United Kingdom,England
+285,28,Young Adults (25-34),F,Germany,Bayern
+286,30,Young Adults (25-34),M,Australia,Victoria
+287,36,Adults (35-64),M,Australia,New South Wales
+288,37,Adults (35-64),F,Australia,Queensland
+289,45,Adults (35-64),F,United States,Oregon
+290,33,Young Adults (25-34),M,United States,California
+291,36,Adults (35-64),F,United States,California
+292,30,Young Adults (25-34),F,Australia,Queensland
+293,41,Adults (35-64),M,United States,Washington
+294,46,Adults (35-64),F,Australia,New South Wales
+295,44,Adults (35-64),M,Germany,Nordrhein-Westfalen
+296,49,Adults (35-64),M,United States,California
+297,39,Adults (35-64),F,United Kingdom,England
+298,29,Young Adults (25-34),M,Australia,Victoria
+299,44,Adults (35-64),M,France,Seine Saint Denis
+300,56,Adults (35-64),F,United States,California
+301,58,Adults (35-64),M,Australia,Victoria
+302,46,Adults (35-64),F,Canada,British Columbia
+303,34,Young Adults (25-34),M,United States,California
+304,37,Adults (35-64),F,United States,Washington
+305,59,Adults (35-64),M,United States,Washington
+306,26,Young Adults (25-34),M,United States,Oregon
+307,30,Young Adults (25-34),M,Canada,British Columbia
+308,30,Young Adults (25-34),F,France,Seine Saint Denis
+309,84,Seniors (64+),F,United Kingdom,England
+310,30,Young Adults (25-34),M,United Kingdom,England
+311,36,Adults (35-64),F,Germany,Hessen
+312,44,Adults (35-64),M,United Kingdom,England
+313,23,Youth (<25),M,Australia,Tasmania
+314,32,Young Adults (25-34),F,Australia,Queensland
+315,33,Young Adults (25-34),F,Australia,Queensland
+316,31,Young Adults (25-34),F,Australia,New South Wales
+317,49,Adults (35-64),M,United States,Washington
+318,34,Young Adults (25-34),M,Australia,New South Wales
+319,51,Adults (35-64),F,Australia,Queensland
+320,34,Young Adults (25-34),M,France,Loiret
+321,34,Young Adults (25-34),M,Germany,Hessen
+322,22,Youth (<25),M,United Kingdom,England
+323,35,Adults (35-64),M,Germany,Saarland
+324,18,Youth (<25),M,Germany,Nordrhein-Westfalen
+325,24,Youth (<25),M,France,Hauts de Seine
+326,39,Adults (35-64),F,Australia,New South Wales
+327,26,Young Adults (25-34),F,Germany,Nordrhein-Westfalen
+328,24,Youth (<25),M,Canada,British Columbia
+329,34,Young Adults (25-34),F,Germany,Saarland
+330,34,Young Adults (25-34),M,Australia,Queensland
+331,25,Young Adults (25-34),F,United States,Washington
+332,51,Adults (35-64),M,Australia,Victoria
+333,34,Young Adults (25-34),F,United States,California
+334,25,Young Adults (25-34),M,United Kingdom,England
+335,25,Young Adults (25-34),F,United Kingdom,England
+336,25,Young Adults (25-34),M,Germany,Nordrhein-Westfalen
+337,20,Youth (<25),F,France,Seine (Paris)
+338,21,Youth (<25),F,France,Yveline
+339,23,Youth (<25),M,France,Seine et Marne
+340,59,Adults (35-64),F,United Kingdom,England
+341,50,Adults (35-64),F,Canada,British Columbia
+342,40,Adults (35-64),M,France,Val de Marne
+343,43,Adults (35-64),M,United Kingdom,England
+344,36,Adults (35-64),F,Australia,Queensland
+345,56,Adults (35-64),M,Canada,British Columbia
+346,21,Youth (<25),M,United States,California
+347,39,Adults (35-64),F,Australia,Queensland
+348,31,Young Adults (25-34),F,United States,California
+349,30,Young Adults (25-34),M,France,Loiret
+350,21,Youth (<25),F,France,Seine (Paris)
+351,22,Youth (<25),M,Germany,Nordrhein-Westfalen
+352,50,Adults (35-64),F,United States,Oregon
+353,50,Adults (35-64),M,United States,Washington
+354,47,Adults (35-64),F,United States,Washington
+355,44,Adults (35-64),F,Australia,Queensland
+356,50,Adults (35-64),M,Australia,New South Wales
+357,24,Youth (<25),M,France,Nord
+358,48,Adults (35-64),F,Germany,Saarland
+359,58,Adults (35-64),M,United States,Washington
+360,52,Adults (35-64),F,United States,Washington
+361,44,Adults (35-64),M,Australia,Queensland
+362,35,Adults (35-64),F,United States,Washington
+363,61,Adults (35-64),F,United States,California
+364,19,Youth (<25),M,France,Seine Saint Denis
+365,49,Adults (35-64),F,United States,Washington
+366,20,Youth (<25),M,United States,California
+367,41,Adults (35-64),F,United States,Washington
+368,41,Adults (35-64),F,United States,Oregon
+369,37,Adults (35-64),M,United States,Washington
+370,39,Adults (35-64),F,United States,California
+371,31,Young Adults (25-34),M,Australia,Victoria
+372,68,Seniors (64+),M,Germany,Nordrhein-Westfalen
+373,38,Adults (35-64),M,United Kingdom,England
+374,33,Young Adults (25-34),F,Australia,New South Wales
+375,23,Youth (<25),F,United States,Washington
+376,41,Adults (35-64),M,Australia,New South Wales
+377,32,Young Adults (25-34),F,United Kingdom,England
+378,18,Youth (<25),F,Germany,Saarland
+379,19,Youth (<25),F,Germany,Nordrhein-Westfalen
+380,52,Adults (35-64),F,Germany,Hamburg
+381,45,Adults (35-64),F,Australia,New South Wales
+382,35,Adults (35-64),F,Canada,British Columbia
+383,22,Youth (<25),M,France,Nord
+384,56,Adults (35-64),F,Australia,Victoria
+385,24,Youth (<25),F,United States,Washington
+386,27,Young Adults (25-34),F,Germany,Saarland
+387,50,Adults (35-64),M,United Kingdom,England
+388,22,Youth (<25),M,Australia,New South Wales
+389,44,Adults (35-64),M,United States,Washington
+390,37,Adults (35-64),M,United States,California
+391,60,Adults (35-64),F,Australia,New South Wales
+392,31,Young Adults (25-34),M,United Kingdom,England
+393,22,Youth (<25),F,Germany,Hamburg
+394,60,Adults (35-64),F,France,Nord
+395,53,Adults (35-64),M,Australia,Victoria
+396,50,Adults (35-64),F,Australia,New South Wales
+397,50,Adults (35-64),F,Australia,Victoria
+398,49,Adults (35-64),F,Australia,Victoria
+399,42,Adults (35-64),F,Australia,Victoria
+400,41,Adults (35-64),M,Australia,South Australia
+401,36,Adults (35-64),M,Australia,Victoria
+402,37,Adults (35-64),F,Australia,South Australia
+403,35,Adults (35-64),M,Australia,South Australia
+404,40,Adults (35-64),M,Australia,Victoria
+405,22,Youth (<25),F,United States,Washington
+406,18,Youth (<25),F,United States,Oregon
+407,40,Adults (35-64),M,France,Yveline
+408,41,Adults (35-64),M,Germany,Hessen
+409,42,Adults (35-64),M,France,Seine Saint Denis
+410,42,Adults (35-64),F,Germany,Saarland
+411,65,Seniors (64+),M,Canada,British Columbia
+412,64,Adults (35-64),M,United States,Washington
+413,35,Adults (35-64),M,France,Seine (Paris)
+414,36,Adults (35-64),M,Germany,Nordrhein-Westfalen
+415,61,Adults (35-64),F,France,Seine (Paris)
+416,35,Adults (35-64),M,France,Pas de Calais
+417,43,Adults (35-64),F,Germany,Hessen
+418,57,Adults (35-64),M,France,Seine Saint Denis
+419,55,Adults (35-64),F,Germany,Bayern
+420,55,Adults (35-64),M,United Kingdom,England
+421,18,Youth (<25),F,Australia,South Australia
+422,19,Youth (<25),F,Australia,Queensland
+423,54,Adults (35-64),F,Germany,Hessen
+424,37,Adults (35-64),F,France,Moselle
+425,37,Adults (35-64),F,France,Seine et Marne
+426,37,Adults (35-64),F,France,Essonne
+427,28,Young Adults (25-34),F,France,Charente-Maritime
+428,43,Adults (35-64),F,Germany,Bayern
+429,53,Adults (35-64),M,Germany,Hessen
+430,52,Adults (35-64),F,France,Nord
+431,45,Adults (35-64),M,France,Hauts de Seine
+432,45,Adults (35-64),M,Germany,Bayern
+433,46,Adults (35-64),F,France,Seine et Marne
+434,46,Adults (35-64),M,France,Seine Saint Denis
+435,23,Youth (<25),F,Australia,Queensland
+436,23,Youth (<25),M,Australia,New South Wales
+437,25,Young Adults (25-34),F,Australia,South Australia
+438,24,Youth (<25),M,France,Loir et Cher
+439,24,Youth (<25),F,France,Seine Saint Denis
+440,23,Youth (<25),F,Canada,British Columbia
+441,33,Young Adults (25-34),F,France,Seine Saint Denis
+442,34,Young Adults (25-34),F,France,Seine Saint Denis
+443,20,Youth (<25),M,France,Loiret
+444,20,Youth (<25),F,France,Essonne
+445,20,Youth (<25),M,France,Yveline
+446,22,Youth (<25),M,France,Seine (Paris)
+447,23,Youth (<25),M,United Kingdom,England
+448,22,Youth (<25),F,Germany,Nordrhein-Westfalen
+449,30,Young Adults (25-34),M,Australia,Tasmania
+450,73,Seniors (64+),F,Canada,British Columbia
+451,29,Young Adults (25-34),M,Australia,New South Wales
+452,51,Adults (35-64),F,Australia,New South Wales
+453,48,Adults (35-64),M,Australia,New South Wales
+454,39,Adults (35-64),M,Australia,South Australia
+455,62,Adults (35-64),F,Australia,Victoria
+456,44,Adults (35-64),F,Australia,Victoria
+457,18,Youth (<25),M,Canada,British Columbia
+458,53,Adults (35-64),M,United States,California
+459,39,Adults (35-64),M,United Kingdom,England
+460,40,Adults (35-64),F,Germany,Hamburg
+461,41,Adults (35-64),F,Germany,Nordrhein-Westfalen
+462,41,Adults (35-64),F,Germany,Hamburg
+463,42,Adults (35-64),F,France,Seine Saint Denis
+464,59,Adults (35-64),M,United States,Oregon
+465,58,Adults (35-64),F,United States,California
+466,34,Young Adults (25-34),M,Germany,Nordrhein-Westfalen
+467,36,Adults (35-64),M,France,Nord
+468,39,Adults (35-64),F,Germany,Saarland
+469,40,Adults (35-64),F,Germany,Bayern
+470,42,Adults (35-64),M,Germany,Nordrhein-Westfalen
+471,20,Youth (<25),M,Australia,Queensland
+472,36,Adults (35-64),F,France,Garonne (Haute)
+473,27,Young Adults (25-34),F,France,Charente-Maritime
+474,53,Adults (35-64),M,Germany,Brandenburg
+475,52,Adults (35-64),M,France,Hauts de Seine
+476,52,Adults (35-64),F,Germany,Saarland
+477,51,Adults (35-64),F,France,Garonne (Haute)
+478,51,Adults (35-64),M,Germany,Hessen
+479,43,Adults (35-64),M,France,Val d'Oise
+480,46,Adults (35-64),F,France,Essonne
+481,46,Adults (35-64),M,France,Hauts de Seine
+482,48,Adults (35-64),M,Germany,Hamburg
+483,49,Adults (35-64),M,France,Nord
+484,21,Youth (<25),F,Australia,Queensland
+485,23,Youth (<25),M,France,Yveline
+486,24,Youth (<25),F,Germany,Saarland
+487,24,Youth (<25),F,United Kingdom,England
+488,25,Young Adults (25-34),F,Germany,Hamburg
+489,27,Young Adults (25-34),M,Germany,Saarland
+490,26,Young Adults (25-34),M,Germany,Nordrhein-Westfalen
+491,29,Young Adults (25-34),M,Germany,Saarland
+492,33,Young Adults (25-34),F,Germany,Hamburg
+493,31,Young Adults (25-34),M,France,Essonne
+494,31,Young Adults (25-34),F,France,Seine (Paris)
+495,33,Young Adults (25-34),F,France,Yveline
+496,22,Youth (<25),F,United Kingdom,England
+497,41,Adults (35-64),M,Germany,Hamburg
+498,59,Adults (35-64),F,France,Hauts de Seine
+499,58,Adults (35-64),M,France,Nord
+500,57,Adults (35-64),M,France,Hauts de Seine
+501,57,Adults (35-64),F,Germany,Nordrhein-Westfalen
+502,57,Adults (35-64),M,United Kingdom,England
+503,58,Adults (35-64),F,United Kingdom,England
+504,56,Adults (35-64),F,France,Seine Saint Denis
+505,56,Adults (35-64),F,France,Seine (Paris)
+506,55,Adults (35-64),F,France,Seine (Paris)
+507,19,Youth (<25),F,Australia,Victoria
+508,21,Youth (<25),M,Australia,New South Wales
+509,39,Adults (35-64),M,Germany,Brandenburg
+510,37,Adults (35-64),M,United Kingdom,England
+511,37,Adults (35-64),M,Germany,Hessen
+512,37,Adults (35-64),F,Germany,Saarland
+513,27,Young Adults (25-34),M,France,Yveline
+514,28,Young Adults (25-34),F,France,Seine et Marne
+515,28,Young Adults (25-34),M,France,Seine (Paris)
+516,45,Adults (35-64),F,France,Garonne (Haute)
+517,29,Young Adults (25-34),M,France,Garonne (Haute)
+518,48,Adults (35-64),M,France,Hauts de Seine
+519,50,Adults (35-64),F,France,Loiret
+520,50,Adults (35-64),F,France,Val de Marne
+521,50,Adults (35-64),M,France,Seine (Paris)
+522,50,Adults (35-64),F,France,Seine Saint Denis
+523,21,Youth (<25),F,Australia,Tasmania
+524,23,Youth (<25),M,France,Nord
+525,23,Youth (<25),F,France,Moselle
+526,23,Youth (<25),F,France,Seine (Paris)
+527,23,Youth (<25),F,France,Hauts de Seine
+528,23,Youth (<25),M,France,Hauts de Seine
+529,23,Youth (<25),F,Germany,Saarland
+530,17,Youth (<25),F,Germany,Nordrhein-Westfalen
+531,17,Youth (<25),M,France,Loiret
+532,17,Youth (<25),M,Germany,Saarland
+533,17,Youth (<25),F,France,Seine Saint Denis
+534,25,Young Adults (25-34),M,France,Loiret
+535,25,Young Adults (25-34),F,France,Val d'Oise
+536,25,Young Adults (25-34),F,Germany,Bayern
+537,26,Young Adults (25-34),F,Germany,Hamburg
+538,26,Young Adults (25-34),F,France,Seine Saint Denis
+539,27,Young Adults (25-34),F,France,Essonne
+540,27,Young Adults (25-34),F,France,Seine Saint Denis
+541,29,Young Adults (25-34),F,France,Nord
+542,29,Young Adults (25-34),M,France,Hauts de Seine
+543,29,Young Adults (25-34),F,Germany,Saarland
+544,31,Young Adults (25-34),M,France,Yveline
+545,31,Young Adults (25-34),M,France,Loiret
+546,31,Young Adults (25-34),M,Germany,Hamburg
+547,32,Young Adults (25-34),M,Germany,Hessen
+548,33,Young Adults (25-34),F,Germany,Hessen
+549,20,Youth (<25),M,Germany,Bayern
+550,19,Youth (<25),M,Germany,Nordrhein-Westfalen
+551,22,Youth (<25),F,France,Seine (Paris)
+552,27,Young Adults (25-34),F,United States,Oregon
+553,28,Young Adults (25-34),M,Australia,Tasmania
+554,31,Young Adults (25-34),F,Australia,Victoria
+555,40,Adults (35-64),F,Australia,South Australia
+556,35,Adults (35-64),F,Australia,Victoria
+557,56,Adults (35-64),F,Australia,New South Wales
+558,56,Adults (35-64),M,Australia,Victoria
+559,54,Adults (35-64),M,Canada,British Columbia
+560,51,Adults (35-64),F,United States,Texas
+561,48,Adults (35-64),M,Canada,British Columbia
+562,40,Adults (35-64),F,Germany,Hessen
+563,41,Adults (35-64),F,France,Nord
+564,41,Adults (35-64),F,Germany,Bayern
+565,41,Adults (35-64),M,Germany,Nordrhein-Westfalen
+566,65,Seniors (64+),F,Canada,British Columbia
+567,64,Adults (35-64),M,Canada,British Columbia
+568,57,Adults (35-64),F,United States,Oregon
+569,47,Adults (35-64),F,United States,Oregon
+570,46,Adults (35-64),M,United States,Oregon
+571,40,Adults (35-64),M,France,Nord
+572,42,Adults (35-64),F,Germany,Nordrhein-Westfalen
+573,51,Adults (35-64),M,France,Nord
+574,33,Young Adults (25-34),F,United States,Oregon
+575,60,Adults (35-64),F,Canada,British Columbia
+576,58,Adults (35-64),F,Canada,British Columbia
+577,40,Adults (35-64),M,United Kingdom,England
+578,41,Adults (35-64),F,France,Yveline
+579,60,Adults (35-64),M,United Kingdom,England
+580,37,Adults (35-64),F,Germany,Bayern
+581,39,Adults (35-64),F,Germany,Hessen
+582,39,Adults (35-64),M,Germany,Nordrhein-Westfalen
+583,27,Young Adults (25-34),F,Germany,Bayern
+584,28,Young Adults (25-34),F,France,Loiret
+585,29,Young Adults (25-34),M,Germany,Bayern
+586,53,Adults (35-64),F,France,Essonne
+587,52,Adults (35-64),M,France,Seine (Paris)
+588,52,Adults (35-64),M,France,Nord
+589,51,Adults (35-64),M,Germany,Bayern
+590,43,Adults (35-64),F,Germany,Nordrhein-Westfalen
+591,45,Adults (35-64),F,Germany,Saarland
+592,45,Adults (35-64),F,Germany,Hamburg
+593,46,Adults (35-64),M,France,Val de Marne
+594,46,Adults (35-64),M,Germany,Bayern
+595,46,Adults (35-64),M,Germany,Nordrhein-Westfalen
+596,46,Adults (35-64),F,United Kingdom,England
+597,47,Adults (35-64),F,Germany,Saarland
+598,48,Adults (35-64),M,France,Moselle
+599,48,Adults (35-64),M,Germany,Bayern
+600,25,Young Adults (25-34),F,Australia,New South Wales
+601,26,Young Adults (25-34),M,Australia,South Australia
+602,26,Young Adults (25-34),M,Germany,Saarland
+603,42,Adults (35-64),M,United States,Washington
+604,29,Young Adults (25-34),M,Germany,Hamburg
+605,30,Young Adults (25-34),M,Germany,Hessen
+606,30,Young Adults (25-34),F,Germany,Hamburg
+607,33,Young Adults (25-34),M,Germany,Hamburg
+608,63,Adults (35-64),F,France,Nord
+609,33,Young Adults (25-34),M,France,Val de Marne
+610,35,Adults (35-64),M,Germany,Bayern
+611,25,Young Adults (25-34),F,United States,Oregon
+612,26,Young Adults (25-34),F,United States,Oregon
+613,28,Young Adults (25-34),M,United States,Oregon
+614,29,Young Adults (25-34),F,United States,Washington
+615,53,Adults (35-64),M,Australia,New South Wales
+616,23,Youth (<25),M,United States,Washington
+617,31,Young Adults (25-34),M,Australia,Tasmania
+618,55,Adults (35-64),F,Australia,New South Wales
+619,54,Adults (35-64),F,Australia,New South Wales
+620,27,Young Adults (25-34),M,France,Essonne
+621,54,Adults (35-64),M,Australia,Victoria
+622,28,Young Adults (25-34),F,Germany,Brandenburg
+623,53,Adults (35-64),F,Germany,Bayern
+624,45,Adults (35-64),M,France,Essonne
+625,47,Adults (35-64),M,France,Seine Saint Denis
+626,48,Adults (35-64),M,United Kingdom,England
+627,22,Youth (<25),F,Australia,South Australia
+628,43,Adults (35-64),M,Australia,Victoria
+629,21,Youth (<25),M,Canada,British Columbia
+630,42,Adults (35-64),M,Australia,South Australia
+631,42,Adults (35-64),F,Australia,Queensland
+632,50,Adults (35-64),M,United States,Oregon
+633,40,Adults (35-64),M,Germany,Hessen
+634,63,Adults (35-64),F,United States,California
+635,60,Adults (35-64),F,United States,California
+636,36,Adults (35-64),F,France,Yveline
+637,54,Adults (35-64),M,France,Seine Saint Denis
+638,30,Young Adults (25-34),F,Canada,British Columbia
+639,36,Adults (35-64),M,Canada,British Columbia
+640,28,Young Adults (25-34),M,Australia,Queensland
+641,29,Young Adults (25-34),F,Australia,Queensland
+642,25,Young Adults (25-34),M,France,Garonne (Haute)
+643,27,Young Adults (25-34),F,France,Loiret
+644,26,Young Adults (25-34),F,France,Moselle
+645,27,Young Adults (25-34),M,France,Loir et Cher
+646,30,Young Adults (25-34),F,United Kingdom,England
+647,30,Young Adults (25-34),M,Germany,Nordrhein-Westfalen
+648,30,Young Adults (25-34),M,Germany,Bayern
+649,33,Young Adults (25-34),F,France,Hauts de Seine
+650,20,Youth (<25),M,Germany,Hamburg
+651,22,Youth (<25),F,Germany,Bayern
+652,24,Youth (<25),F,France,Seine et Marne
+653,22,Youth (<25),F,United States,Oregon
+654,29,Young Adults (25-34),M,France,Seine Saint Denis
+655,30,Young Adults (25-34),M,France,Seine Saint Denis
+656,31,Young Adults (25-34),F,Germany,Saarland
+657,32,Young Adults (25-34),M,France,Seine Saint Denis
+658,19,Youth (<25),M,Germany,Hamburg
+659,19,Youth (<25),F,United Kingdom,England
+660,23,Youth (<25),M,France,Seine Saint Denis
+661,28,Young Adults (25-34),M,France,Seine Saint Denis
+662,28,Young Adults (25-34),F,France,Seine Saint Denis
+663,53,Adults (35-64),M,France,Seine (Paris)
+664,52,Adults (35-64),F,France,Essonne
+665,52,Adults (35-64),F,United Kingdom,England
+666,48,Adults (35-64),F,Germany,Hessen
+667,21,Youth (<25),M,Australia,Victoria
+668,23,Youth (<25),F,Australia,Victoria
+669,54,Adults (35-64),F,United States,Washington
+670,22,Youth (<25),M,United States,Oregon
+671,39,Adults (35-64),M,Australia,Queensland
+672,36,Adults (35-64),M,Australia,Queensland
+673,37,Adults (35-64),F,Australia,Victoria
+674,49,Adults (35-64),F,United States,New York
+675,32,Young Adults (25-34),F,United States,California
+676,57,Adults (35-64),F,France,Nord
+677,57,Adults (35-64),M,Germany,Saarland
+678,54,Adults (35-64),M,France,Hauts de Seine
+679,29,Young Adults (25-34),F,United States,Florida
+680,30,Young Adults (25-34),M,United States,Washington
+681,29,Young Adults (25-34),F,Australia,Tasmania
+682,29,Young Adults (25-34),F,Australia,Victoria
+683,33,Young Adults (25-34),M,Australia,New South Wales
+684,33,Young Adults (25-34),M,Australia,Tasmania
+685,25,Young Adults (25-34),F,France,Seine (Paris)
+686,26,Young Adults (25-34),M,France,Charente-Maritime
+687,38,Adults (35-64),F,Germany,Saarland
+688,28,Young Adults (25-34),M,Germany,Bayern
+689,28,Young Adults (25-34),F,France,Essonne
+690,52,Adults (35-64),M,France,Essonne
+691,44,Adults (35-64),F,Germany,Bayern
+692,23,Youth (<25),M,Canada,British Columbia
+693,38,Adults (35-64),F,Australia,Victoria
+694,57,Adults (35-64),F,Australia,New South Wales
+695,47,Adults (35-64),M,United States,Washington
+696,41,Adults (35-64),M,France,Seine et Marne
+697,41,Adults (35-64),F,Germany,Saarland
+698,42,Adults (35-64),M,France,Essonne
+699,41,Adults (35-64),M,France,Seine (Paris)
+700,42,Adults (35-64),M,Germany,Saarland
+701,26,Young Adults (25-34),F,United States,California
+702,27,Young Adults (25-34),M,Canada,British Columbia
+703,36,Adults (35-64),F,Canada,British Columbia
+704,24,Youth (<25),M,Germany,Hamburg
+705,27,Young Adults (25-34),M,France,Val de Marne
+706,26,Young Adults (25-34),M,France,Essonne
+707,26,Young Adults (25-34),F,Germany,Hessen
+708,26,Young Adults (25-34),M,Germany,Bayern
+709,30,Young Adults (25-34),F,France,Seine (Paris)
+710,31,Young Adults (25-34),F,France,Seine et Marne
+711,32,Young Adults (25-34),F,France,Charente-Maritime
+712,34,Young Adults (25-34),F,United Kingdom,England
+713,43,Adults (35-64),M,Australia,New South Wales
+714,32,Young Adults (25-34),F,Germany,Saarland
+715,31,Young Adults (25-34),M,France,Somme
+716,48,Adults (35-64),F,Australia,Victoria
+717,46,Adults (35-64),M,Australia,Tasmania
+718,56,Adults (35-64),F,United Kingdom,England
+719,36,Adults (35-64),F,France,Seine Saint Denis
+720,39,Adults (35-64),M,France,Hauts de Seine
+721,28,Young Adults (25-34),M,Germany,Hessen
+722,53,Adults (35-64),F,United Kingdom,England
+723,46,Adults (35-64),F,France,Yveline
+724,50,Adults (35-64),F,Germany,Hamburg
+725,26,Young Adults (25-34),F,Australia,Victoria
+726,56,Adults (35-64),M,United States,Washington
+727,55,Adults (35-64),M,Canada,British Columbia
+728,54,Adults (35-64),F,United States,Oregon
+729,23,Youth (<25),M,United States,Illinois
+730,35,Adults (35-64),F,Australia,Tasmania
+731,61,Adults (35-64),M,Australia,Queensland
+732,21,Youth (<25),M,United States,Washington
+733,22,Youth (<25),M,United States,California
+734,60,Adults (35-64),M,Australia,Tasmania
+735,60,Adults (35-64),F,Australia,Queensland
+736,18,Youth (<25),F,Canada,British Columbia
+737,18,Youth (<25),F,United States,Washington
+738,58,Adults (35-64),M,Australia,Queensland
+739,57,Adults (35-64),M,Australia,New South Wales
+740,48,Adults (35-64),F,United States,Washington
+741,47,Adults (35-64),M,United States,Oregon
+742,39,Adults (35-64),F,Germany,Nordrhein-Westfalen
+743,40,Adults (35-64),M,Germany,Nordrhein-Westfalen
+744,41,Adults (35-64),M,United Kingdom,England
+745,65,Seniors (64+),M,United States,Washington
+746,65,Seniors (64+),M,United States,California
+747,62,Adults (35-64),M,Canada,Alberta
+748,61,Adults (35-64),F,United States,Washington
+749,60,Adults (35-64),F,United States,Washington
+750,57,Adults (35-64),M,United States,Oregon
+751,29,Young Adults (25-34),F,United States,South Carolina
+752,53,Adults (35-64),F,Australia,New South Wales
+753,52,Adults (35-64),M,Australia,Queensland
+754,28,Young Adults (25-34),M,United States,Washington
+755,28,Young Adults (25-34),M,United States,California
+756,36,Adults (35-64),F,United States,Texas
+757,26,Young Adults (25-34),F,France,Yveline
+758,51,Adults (35-64),M,United States,Washington
+759,42,Adults (35-64),M,France,Loiret
+760,43,Adults (35-64),M,Germany,Nordrhein-Westfalen
+761,53,Adults (35-64),F,Germany,Hamburg
+762,44,Adults (35-64),M,Germany,Bayern
+763,43,Adults (35-64),M,Germany,Hamburg
+764,46,Adults (35-64),M,Germany,Hamburg
+765,47,Adults (35-64),F,France,Nord
+766,48,Adults (35-64),M,Germany,Saarland
+767,48,Adults (35-64),M,Germany,Nordrhein-Westfalen
+768,49,Adults (35-64),F,Germany,Saarland
+769,49,Adults (35-64),M,United Kingdom,England
+770,27,Young Adults (25-34),M,Australia,Tasmania
+771,39,Adults (35-64),F,United States,Oregon
+772,68,Seniors (64+),M,United States,Washington
+773,34,Young Adults (25-34),F,Australia,South Australia
+774,34,Young Adults (25-34),F,Australia,Victoria
+775,21,Youth (<25),M,United States,Oregon
+776,21,Youth (<25),F,United States,Oregon
+777,19,Youth (<25),F,Canada,British Columbia
+778,19,Youth (<25),F,United States,Washington
+779,19,Youth (<25),M,United States,Oregon
+780,63,Adults (35-64),F,United States,Oregon
+781,63,Adults (35-64),M,United States,California
+782,36,Adults (35-64),M,United States,Oregon
+783,36,Adults (35-64),F,United States,Oregon
+784,43,Adults (35-64),M,United States,Washington
+785,60,Adults (35-64),M,United States,Oregon
+786,60,Adults (35-64),M,United States,California
+787,60,Adults (35-64),M,Canada,British Columbia
+788,58,Adults (35-64),F,United States,Washington
+789,43,Adults (35-64),M,Australia,Queensland
+790,24,Youth (<25),M,United States,Washington
+791,23,Youth (<25),F,United States,Oregon
+792,40,Adults (35-64),M,United States,Oregon
+793,40,Adults (35-64),F,United States,Oregon
+794,35,Adults (35-64),F,United States,Oregon
+795,55,Adults (35-64),F,Canada,British Columbia
+796,55,Adults (35-64),F,United States,Oregon
+797,36,Adults (35-64),M,United Kingdom,England
+798,17,Youth (<25),F,Australia,Victoria
+799,39,Adults (35-64),F,France,Hauts de Seine
+800,28,Young Adults (25-34),M,Germany,Hamburg
+801,28,Young Adults (25-34),M,France,Loiret
+802,45,Adults (35-64),M,France,Nord
+803,29,Young Adults (25-34),F,France,Seine Saint Denis
+804,32,Young Adults (25-34),F,France,Val de Marne
+805,35,Adults (35-64),M,France,Nord
+806,35,Adults (35-64),F,Germany,Saarland
+807,35,Adults (35-64),F,France,Seine (Paris)
+808,26,Young Adults (25-34),M,United States,Washington
+809,55,Adults (35-64),F,Germany,Saarland
+810,19,Youth (<25),M,Australia,New South Wales
+811,54,Adults (35-64),M,Germany,Hamburg
+812,38,Adults (35-64),M,Germany,Bayern
+813,30,Young Adults (25-34),M,France,Somme
+814,30,Young Adults (25-34),F,Germany,Hessen
+815,34,Young Adults (25-34),F,Germany,Hamburg
+816,37,Adults (35-64),F,United States,North Carolina
+817,46,Adults (35-64),F,United States,Washington
+818,46,Adults (35-64),F,United States,Oregon
+819,45,Adults (35-64),M,United States,California
+820,40,Adults (35-64),F,Germany,Saarland
+821,41,Adults (35-64),F,France,Hauts de Seine
+822,42,Adults (35-64),M,France,Yveline
+823,42,Adults (35-64),F,Germany,Hamburg
+824,53,Adults (35-64),M,Germany,Hamburg
+825,44,Adults (35-64),M,France,Moselle
+826,45,Adults (35-64),M,United Kingdom,England
+827,46,Adults (35-64),M,Germany,Saarland
+828,47,Adults (35-64),M,Germany,Nordrhein-Westfalen
+829,49,Adults (35-64),F,Germany,Nordrhein-Westfalen
+830,26,Young Adults (25-34),F,Australia,South Australia
+831,33,Young Adults (25-34),F,United States,Washington
+832,39,Adults (35-64),F,Canada,British Columbia
+833,27,Young Adults (25-34),M,Australia,New South Wales
+834,28,Young Adults (25-34),F,Australia,South Australia
+835,35,Adults (35-64),M,Australia,Queensland
+836,39,Adults (35-64),M,Australia,New South Wales
+837,41,Adults (35-64),F,Australia,New South Wales
+838,55,Adults (35-64),M,Australia,Queensland
+839,55,Adults (35-64),F,Australia,Victoria
+840,21,Youth (<25),F,United States,California
+841,35,Adults (35-64),M,United States,Georgia
+842,20,Youth (<25),F,United States,Oregon
+843,42,Adults (35-64),F,Australia,New South Wales
+844,23,Youth (<25),M,United States,Oregon
+845,36,Adults (35-64),M,United States,Virginia
+846,54,Adults (35-64),M,United States,Washington
+847,54,Adults (35-64),F,United States,California
+848,25,Young Adults (25-34),F,United States,Georgia
+849,26,Young Adults (25-34),F,France,Seine (Paris)
+850,22,Youth (<25),M,Canada,British Columbia
+851,28,Young Adults (25-34),F,Australia,Queensland
+852,28,Young Adults (25-34),M,Australia,New South Wales
+853,30,Young Adults (25-34),F,Australia,Tasmania
+854,58,Adults (35-64),M,United States,California
+855,18,Youth (<25),M,United States,Washington
+856,45,Adults (35-64),F,Australia,South Australia
+857,43,Adults (35-64),F,Australia,Queensland
+858,40,Adults (35-64),F,France,Yveline
+859,40,Adults (35-64),M,France,Essonne
+860,43,Adults (35-64),M,Germany,Saarland
+861,51,Adults (35-64),F,United Kingdom,England
+862,44,Adults (35-64),F,France,Hauts de Seine
+863,25,Young Adults (25-34),M,Australia,Victoria
+864,27,Young Adults (25-34),F,Australia,New South Wales
+865,25,Young Adults (25-34),F,France,Hauts de Seine
+866,25,Young Adults (25-34),F,France,Seine et Marne
+867,25,Young Adults (25-34),M,France,Seine et Marne
+868,26,Young Adults (25-34),F,France,Nord
+869,41,Adults (35-64),F,France,Seine (Paris)
+870,43,Adults (35-64),F,Germany,Saarland
+871,54,Adults (35-64),M,France,Charente-Maritime
+872,54,Adults (35-64),F,France,Seine Saint Denis
+873,36,Adults (35-64),M,France,Loiret
+874,37,Adults (35-64),M,France,Yveline
+875,39,Adults (35-64),F,France,Loir et Cher
+876,46,Adults (35-64),M,France,Yveline
+877,34,Young Adults (25-34),M,France,Yveline
+878,34,Young Adults (25-34),M,France,Hauts de Seine
+879,19,Youth (<25),M,France,Yveline
+880,35,Adults (35-64),F,France,Nord
+881,35,Adults (35-64),M,Germany,Nordrhein-Westfalen
+882,19,Youth (<25),M,France,Seine (Paris)
+883,20,Youth (<25),M,France,Hauts de Seine
+884,21,Youth (<25),F,France,Seine Saint Denis
+885,22,Youth (<25),F,France,Essonne
+886,69,Seniors (64+),F,United States,California
+887,38,Adults (35-64),M,Germany,Hessen
+888,28,Young Adults (25-34),F,Germany,Hessen
+889,30,Young Adults (25-34),F,Germany,Saarland
+890,32,Young Adults (25-34),F,France,Nord
+891,32,Young Adults (25-34),F,France,Hauts de Seine
+892,68,Seniors (64+),M,France,Seine (Paris)
+893,68,Seniors (64+),F,France,Nord
+894,34,Young Adults (25-34),M,France,Seine (Paris)
+895,31,Young Adults (25-34),F,Germany,Nordrhein-Westfalen
+896,34,Young Adults (25-34),M,United Kingdom,England
+897,38,Adults (35-64),M,United States,Oregon
+898,41,Adults (35-64),F,Australia,Victoria
+899,41,Adults (35-64),F,Australia,Queensland
+900,17,Youth (<25),F,United States,Oregon
+901,17,Youth (<25),M,United States,California
+902,17,Youth (<25),M,United States,Oregon
+903,23,Youth (<25),F,United States,California
+904,43,Adults (35-64),F,United States,Oregon
+905,57,Adults (35-64),F,United States,California
+906,57,Adults (35-64),M,United States,California
+907,49,Adults (35-64),F,Australia,New South Wales
+908,47,Adults (35-64),M,Australia,South Australia
+909,47,Adults (35-64),M,Australia,Victoria
+910,46,Adults (35-64),M,Australia,Victoria
+911,46,Adults (35-64),M,Australia,South Australia
+912,45,Adults (35-64),F,Australia,Queensland
+913,40,Adults (35-64),M,Australia,South Australia
+914,46,Adults (35-64),M,Canada,British Columbia
+915,40,Adults (35-64),M,France,Seine Saint Denis
+916,41,Adults (35-64),M,France,Moselle
+917,42,Adults (35-64),F,United Kingdom,England
+918,44,Adults (35-64),M,Germany,Hessen
+919,49,Adults (35-64),M,France,Seine (Paris)
+920,21,Youth (<25),M,Australia,South Australia
+921,22,Youth (<25),F,Australia,Victoria
+922,25,Young Adults (25-34),F,Australia,Queensland
+923,27,Young Adults (25-34),F,Australia,Queensland
+924,27,Young Adults (25-34),F,Australia,South Australia
+925,24,Youth (<25),M,France,Charente-Maritime
+926,19,Youth (<25),M,Australia,Victoria
+927,30,Young Adults (25-34),M,Australia,Queensland
+928,32,Young Adults (25-34),F,Australia,South Australia
+929,48,Adults (35-64),M,Australia,Victoria
+930,60,Adults (35-64),F,Australia,Victoria
+931,51,Adults (35-64),F,Australia,South Australia
+932,48,Adults (35-64),F,United States,Oregon
+933,57,Adults (35-64),F,United States,Washington
+934,51,Adults (35-64),M,Australia,Queensland
+935,20,Youth (<25),F,United States,Washington
+936,20,Youth (<25),M,United States,Washington
+937,48,Adults (35-64),F,Australia,New South Wales
+938,46,Adults (35-64),F,Australia,South Australia
+939,17,Youth (<25),F,United States,California
+940,45,Adults (35-64),F,Australia,Victoria
+941,42,Adults (35-64),F,Australia,Tasmania
+942,41,Adults (35-64),M,United States,Oregon
+943,54,Adults (35-64),M,United States,Oregon
+944,52,Adults (35-64),F,United States,California
+945,50,Adults (35-64),F,United States,California
+946,47,Adults (35-64),M,United States,California
+947,42,Adults (35-64),F,Germany,Hessen
+948,43,Adults (35-64),F,United Kingdom,England
+949,47,Adults (35-64),M,France,Hauts de Seine
+950,48,Adults (35-64),F,France,Nord
+951,27,Young Adults (25-34),F,Australia,Victoria
+952,34,Young Adults (25-34),M,United States,Oregon
+953,27,Young Adults (25-34),M,Germany,Hessen
+954,39,Adults (35-64),F,United States,Washington
+955,18,Youth (<25),M,Australia,New South Wales
+956,18,Youth (<25),F,Australia,New South Wales
+957,20,Youth (<25),F,Australia,Queensland
+958,38,Adults (35-64),M,Germany,Nordrhein-Westfalen
+959,37,Adults (35-64),M,Germany,Hamburg
+960,28,Young Adults (25-34),M,Germany,Saarland
+961,35,Adults (35-64),M,Germany,Hessen
+962,20,Youth (<25),F,France,Loir et Cher
+963,21,Youth (<25),M,Germany,Bayern
+964,21,Youth (<25),F,Germany,Hamburg
+965,22,Youth (<25),M,Germany,Saarland
+966,56,Adults (35-64),M,Germany,Brandenburg
+967,55,Adults (35-64),M,Germany,Hamburg
+968,21,Youth (<25),F,Australia,New South Wales
+969,37,Adults (35-64),M,Germany,Saarland
+970,39,Adults (35-64),M,France,Nord
+971,39,Adults (35-64),F,France,Essonne
+972,28,Young Adults (25-34),F,France,Seine (Paris)
+973,28,Young Adults (25-34),M,France,Loir et Cher
+974,30,Young Adults (25-34),F,France,Nord
+975,31,Young Adults (25-34),F,France,Somme
+976,32,Young Adults (25-34),F,Germany,Bayern
+977,32,Young Adults (25-34),M,Germany,Saarland
+978,33,Young Adults (25-34),M,Germany,Brandenburg
+979,64,Adults (35-64),F,Germany,Saarland
+980,64,Adults (35-64),F,Germany,Bayern
+981,34,Young Adults (25-34),M,Germany,Brandenburg
+982,20,Youth (<25),M,Germany,Hessen
+983,20,Youth (<25),F,Germany,Bayern
+984,21,Youth (<25),M,Germany,Hessen
+985,22,Youth (<25),M,Germany,Bayern
+986,22,Youth (<25),M,Germany,Hamburg
+987,17,Youth (<25),F,United Kingdom,England
+988,69,Seniors (64+),M,United States,California
+989,38,Adults (35-64),M,United States,Washington
+990,28,Young Adults (25-34),F,Australia,Victoria
+991,19,Youth (<25),F,United States,California
+992,20,Youth (<25),M,United States,Ohio
+993,20,Youth (<25),M,United States,Oregon
+994,18,Youth (<25),M,United States,California
+995,42,Adults (35-64),F,United States,California
+996,62,Adults (35-64),M,United States,Oregon
+997,45,Adults (35-64),F,United States,California
+998,60,Adults (35-64),M,United States,Washington
+999,56,Adults (35-64),F,United States,Washington
+1000,51,Adults (35-64),M,Australia,New South Wales
+1001,50,Adults (35-64),M,Australia,Victoria
+1002,48,Adults (35-64),M,Australia,Queensland
+1003,22,Youth (<25),M,United States,Washington
+1004,65,Seniors (64+),F,United States,California
+1005,55,Adults (35-64),F,United States,California
+1006,53,Adults (35-64),M,Canada,British Columbia
+1007,40,Adults (35-64),M,Germany,Saarland
+1008,41,Adults (35-64),F,United Kingdom,England
+1009,44,Adults (35-64),F,Germany,Saarland
+1010,47,Adults (35-64),F,France,Seine Saint Denis
+1011,49,Adults (35-64),M,Germany,Nordrhein-Westfalen
+1012,50,Adults (35-64),F,Germany,Saarland
+1013,24,Youth (<25),M,Australia,Queensland
+1014,63,Adults (35-64),M,United States,Oregon
+1015,27,Young Adults (25-34),F,United States,California
+1016,30,Young Adults (25-34),M,United States,Oregon
+1017,34,Young Adults (25-34),M,United States,Washington
+1018,19,Youth (<25),M,Germany,Saarland
+1019,25,Young Adults (25-34),M,Germany,Saarland
+1020,24,Youth (<25),M,France,Garonne (Haute)
+1021,26,Young Adults (25-34),M,Germany,Hessen
+1022,67,Seniors (64+),M,United States,California
+1023,66,Seniors (64+),F,United States,Washington
+1024,53,Adults (35-64),F,United States,Washington
+1025,50,Adults (35-64),M,United States,California
+1026,49,Adults (35-64),M,United States,Oregon
+1027,48,Adults (35-64),M,United States,California
+1028,45,Adults (35-64),M,United States,Oregon
+1029,39,Adults (35-64),M,Germany,Saarland
+1030,53,Adults (35-64),M,France,Nord
+1031,53,Adults (35-64),F,Germany,Nordrhein-Westfalen
+1032,52,Adults (35-64),F,Germany,Hessen
+1033,52,Adults (35-64),M,Germany,Saarland
+1034,51,Adults (35-64),M,Germany,Hamburg
+1035,51,Adults (35-64),F,Germany,Nordrhein-Westfalen
+1036,43,Adults (35-64),M,France,Moselle
+1037,43,Adults (35-64),M,Germany,Bayern
+1038,45,Adults (35-64),M,France,Somme
+1039,46,Adults (35-64),M,France,Seine (Paris)
+1040,46,Adults (35-64),M,Germany,Hessen
+1041,46,Adults (35-64),F,Germany,Saarland
+1042,49,Adults (35-64),F,France,Hauts de Seine
+1043,49,Adults (35-64),F,France,Essonne
+1044,49,Adults (35-64),F,France,Seine (Paris)
+1045,49,Adults (35-64),F,France,Seine et Marne
+1046,49,Adults (35-64),F,Germany,Hessen
+1047,50,Adults (35-64),F,France,Val d'Oise
+1048,50,Adults (35-64),M,France,Seine Saint Denis
+1049,50,Adults (35-64),F,Germany,Nordrhein-Westfalen
+1050,63,Adults (35-64),F,United States,Washington
+1051,17,Youth (<25),F,Germany,Bayern
+1052,38,Adults (35-64),F,United States,Washington
+1053,38,Adults (35-64),F,United States,Oregon
+1054,33,Young Adults (25-34),F,Australia,Victoria
+1055,32,Young Adults (25-34),M,Australia,Queensland
+1056,20,Youth (<25),F,United States,California
+1057,24,Youth (<25),F,Canada,British Columbia
+1058,35,Adults (35-64),M,United States,Oregon
+1059,62,Adults (35-64),F,United States,Oregon
+1060,44,Adults (35-64),F,United States,Oregon
+1061,44,Adults (35-64),F,Canada,British Columbia
+1062,59,Adults (35-64),F,United States,California
+1063,20,Youth (<25),F,Canada,Ontario
+1064,41,Adults (35-64),M,Australia,Victoria
+1065,26,Young Adults (25-34),M,France,Seine (Paris)
+1066,68,Seniors (64+),F,United States,California
+1067,44,Adults (35-64),M,United States,Oregon
+1068,36,Adults (35-64),F,Germany,Bayern
+1069,62,Adults (35-64),M,Germany,Saarland
+1070,61,Adults (35-64),F,Germany,Saarland
+1071,61,Adults (35-64),M,United Kingdom,England
+1072,43,Adults (35-64),F,France,Seine Saint Denis
+1073,43,Adults (35-64),F,Germany,Hamburg
+1074,17,Youth (<25),M,Australia,Victoria
+1075,37,Adults (35-64),F,France,Hauts de Seine
+1076,27,Young Adults (25-34),M,Germany,Nordrhein-Westfalen
+1077,28,Young Adults (25-34),M,France,Hauts de Seine
+1078,28,Young Adults (25-34),M,France,Moselle
+1079,75,Seniors (64+),M,Germany,Hessen
+1080,30,Young Adults (25-34),M,France,Seine (Paris)
+1081,30,Young Adults (25-34),M,Germany,Hamburg
+1082,31,Young Adults (25-34),M,Germany,Saarland
+1083,31,Young Adults (25-34),F,Germany,Hessen
+1084,31,Young Adults (25-34),F,France,Val de Marne
+1085,32,Young Adults (25-34),M,Germany,Brandenburg
+1086,33,Young Adults (25-34),M,Germany,Saarland
+1087,33,Young Adults (25-34),M,Germany,Nordrhein-Westfalen
+1088,33,Young Adults (25-34),M,France,Hauts de Seine
+1089,32,Young Adults (25-34),M,Germany,Bayern
+1090,20,Youth (<25),M,Germany,Nordrhein-Westfalen
+1091,18,Youth (<25),F,France,Yveline
+1092,18,Youth (<25),F,Germany,Nordrhein-Westfalen
+1093,18,Youth (<25),M,Germany,Bayern
+1094,21,Youth (<25),M,United Kingdom,England
+1095,23,Youth (<25),M,Germany,Hamburg
+1096,23,Youth (<25),M,Germany,Nordrhein-Westfalen
+1097,24,Youth (<25),F,Germany,Hamburg
+1098,24,Youth (<25),M,United States,Oregon
+1099,62,Adults (35-64),F,United Kingdom,England
+1100,40,Adults (35-64),F,United Kingdom,England
+1101,36,Adults (35-64),M,Germany,Hamburg
+1102,37,Adults (35-64),F,Germany,Hamburg
+1103,37,Adults (35-64),F,United Kingdom,England
+1104,28,Young Adults (25-34),M,France,Pas de Calais
+1105,28,Young Adults (25-34),M,Germany,Nordrhein-Westfalen
+1106,29,Young Adults (25-34),F,Germany,Hamburg
+1107,29,Young Adults (25-34),M,Germany,Hessen
+1108,29,Young Adults (25-34),F,France,Seine (Paris)
+1109,30,Young Adults (25-34),F,France,Moselle
+1110,31,Young Adults (25-34),M,France,Moselle
+1111,33,Young Adults (25-34),M,United Kingdom,England
+1112,31,Young Adults (25-34),F,France,Nord
+1113,34,Young Adults (25-34),M,France,Seine Saint Denis
+1114,35,Adults (35-64),M,France,Hauts de Seine
+1115,24,Youth (<25),M,Germany,Hessen
+1116,52,Adults (35-64),M,United States,Oregon
+1117,49,Adults (35-64),F,United States,Oregon
+1118,40,Adults (35-64),F,France,Seine (Paris)
+1119,40,Adults (35-64),M,France,Charente-Maritime
+1120,40,Adults (35-64),M,Germany,Bayern
+1121,42,Adults (35-64),F,Germany,Bayern
+1122,51,Adults (35-64),M,France,Hauts de Seine
+1123,51,Adults (35-64),F,Germany,Saarland
+1124,43,Adults (35-64),M,France,Nord
+1125,48,Adults (35-64),F,France,Val d'Oise
+1126,49,Adults (35-64),M,France,Hauts de Seine
+1127,36,Adults (35-64),F,Australia,New South Wales
+1128,34,Young Adults (25-34),F,Australia,Tasmania
+1129,35,Adults (35-64),M,Australia,New South Wales
+1130,40,Adults (35-64),M,Australia,Queensland
+1131,21,Youth (<25),F,United States,Washington
+1132,20,Youth (<25),M,Canada,British Columbia
+1133,38,Adults (35-64),F,Australia,New South Wales
+1134,27,Young Adults (25-34),M,United States,Oregon
+1135,28,Young Adults (25-34),F,United States,California
+1136,28,Young Adults (25-34),F,United States,Oregon
+1137,30,Young Adults (25-34),F,United States,Oregon
+1138,76,Seniors (64+),M,United States,California
+1139,25,Young Adults (25-34),M,Germany,Hessen
+1140,25,Young Adults (25-34),F,France,Yveline
+1141,26,Young Adults (25-34),M,France,Moselle
+1142,44,Adults (35-64),F,United States,Washington
+1143,42,Adults (35-64),F,United States,Oregon
+1144,42,Adults (35-64),F,United States,Washington
+1145,46,Adults (35-64),F,Australia,Victoria
+1146,44,Adults (35-64),M,Australia,Victoria
+1147,38,Adults (35-64),M,Australia,Queensland
+1148,30,Young Adults (25-34),F,Australia,New South Wales
+1149,29,Young Adults (25-34),F,Australia,New South Wales
+1150,63,Adults (35-64),M,United States,Washington
+1151,32,Young Adults (25-34),F,Australia,Tasmania
+1152,38,Adults (35-64),M,Australia,New South Wales
+1153,40,Adults (35-64),F,France,Nord
+1154,42,Adults (35-64),M,France,Hauts de Seine
+1155,42,Adults (35-64),M,Germany,Hessen
+1156,45,Adults (35-64),F,France,Seine Saint Denis
+1157,23,Youth (<25),M,Australia,Queensland
+1158,23,Youth (<25),F,Australia,South Australia
+1159,56,Adults (35-64),F,Canada,British Columbia
+1160,25,Young Adults (25-34),F,Germany,Saarland
+1161,26,Young Adults (25-34),M,France,Val de Marne
+1162,26,Young Adults (25-34),M,France,Hauts de Seine
+1163,66,Seniors (64+),M,Canada,British Columbia
+1164,32,Young Adults (25-34),F,France,Yveline
+1165,31,Young Adults (25-34),M,Germany,Bayern
+1166,32,Young Adults (25-34),F,Germany,Hamburg
+1167,34,Young Adults (25-34),F,France,Essonne
+1168,35,Adults (35-64),F,France,Garonne (Haute)
+1169,60,Adults (35-64),F,United Kingdom,England
+1170,54,Adults (35-64),M,France,Essonne
+1171,18,Youth (<25),M,Australia,Tasmania
+1172,38,Adults (35-64),F,Germany,Hessen
+1173,39,Adults (35-64),F,France,Seine (Paris)
+1174,37,Adults (35-64),M,Germany,Nordrhein-Westfalen
+1175,27,Young Adults (25-34),F,France,Yveline
+1176,78,Seniors (64+),F,United Kingdom,England
+1177,29,Young Adults (25-34),F,Germany,Hessen
+1178,31,Young Adults (25-34),M,France,Seine (Paris)
+1179,32,Young Adults (25-34),M,Germany,Nordrhein-Westfalen
+1180,33,Young Adults (25-34),M,France,Yveline
+1181,21,Youth (<25),M,Germany,Saarland
+1182,59,Adults (35-64),M,United Kingdom,England
+1183,56,Adults (35-64),M,United Kingdom,England
+1184,54,Adults (35-64),M,France,Nord
+1185,20,Youth (<25),F,Australia,South Australia
+1186,20,Youth (<25),F,Australia,New South Wales
+1187,54,Adults (35-64),F,Germany,Saarland
+1188,36,Adults (35-64),F,France,Hauts de Seine
+1189,29,Young Adults (25-34),F,France,Loiret
+1190,50,Adults (35-64),M,Australia,Queensland
+1191,47,Adults (35-64),M,Australia,Queensland
+1192,45,Adults (35-64),M,Australia,New South Wales
+1193,29,Young Adults (25-34),M,Australia,Queensland
+1194,61,Adults (35-64),M,Australia,New South Wales
+1195,22,Youth (<25),F,Canada,British Columbia
+1196,60,Adults (35-64),M,Australia,New South Wales
+1197,45,Adults (35-64),M,Germany,Hessen
+1198,22,Youth (<25),M,Australia,South Australia
+1199,59,Adults (35-64),F,Canada,British Columbia
+1200,54,Adults (35-64),M,United States,California
+1201,24,Youth (<25),M,France,Essonne
+1202,26,Young Adults (25-34),F,United Kingdom,England
+1203,39,Adults (35-64),F,Canada,Alberta
+1204,32,Young Adults (25-34),F,Canada,British Columbia
+1205,40,Adults (35-64),M,Germany,Hamburg
+1206,26,Young Adults (25-34),M,Australia,Tasmania
+1207,49,Adults (35-64),F,Canada,British Columbia
+1208,52,Adults (35-64),F,Australia,Queensland
+1209,49,Adults (35-64),M,Australia,Queensland
+1210,47,Adults (35-64),F,Australia,Queensland
+1211,47,Adults (35-64),M,Australia,New South Wales
+1212,30,Young Adults (25-34),F,United States,Washington
+1213,38,Adults (35-64),M,Canada,British Columbia
+1214,28,Young Adults (25-34),M,Australia,Victoria
+1215,25,Young Adults (25-34),F,Germany,Brandenburg
+1216,26,Young Adults (25-34),M,Germany,Hamburg
+1217,26,Young Adults (25-34),M,United States,California
+1218,27,Young Adults (25-34),F,United States,Washington
+1219,31,Young Adults (25-34),M,Germany,Hessen
+1220,20,Youth (<25),M,United Kingdom,England
+1221,35,Adults (35-64),M,France,Essonne
+1222,56,Adults (35-64),F,Germany,Nordrhein-Westfalen
+1223,17,Youth (<25),F,Australia,New South Wales
+1224,17,Youth (<25),F,Australia,Queensland
+1225,17,Youth (<25),M,Australia,New South Wales
+1226,54,Adults (35-64),M,Germany,Saarland
+1227,38,Adults (35-64),M,France,Seine Saint Denis
+1228,27,Young Adults (25-34),M,Germany,Bayern
+1229,33,Young Adults (25-34),M,France,Seine Saint Denis
+1230,35,Adults (35-64),F,France,Essonne
+1231,55,Adults (35-64),F,United Kingdom,England
+1232,19,Youth (<25),M,Australia,South Australia
+1233,18,Youth (<25),F,Australia,Victoria
+1234,54,Adults (35-64),M,Germany,Hessen
+1235,36,Adults (35-64),F,Germany,Brandenburg
+1236,37,Adults (35-64),F,Germany,Hessen
+1237,38,Adults (35-64),F,France,Somme
+1238,37,Adults (35-64),F,Germany,Nordrhein-Westfalen
+1239,38,Adults (35-64),F,Germany,Hamburg
+1240,51,Adults (35-64),M,United Kingdom,England
+1241,51,Adults (35-64),F,United States,Oregon
+1242,46,Adults (35-64),F,Australia,Queensland
+1243,24,Youth (<25),F,Germany,Nordrhein-Westfalen
+1244,63,Adults (35-64),F,Canada,British Columbia
+1245,61,Adults (35-64),F,Canada,British Columbia
+1246,17,Youth (<25),F,Canada,British Columbia
+1247,20,Youth (<25),F,Canada,British Columbia
+1248,57,Adults (35-64),M,Australia,Victoria
+1249,25,Young Adults (25-34),M,United States,Washington
+1250,27,Young Adults (25-34),M,United States,Washington
+1251,45,Adults (35-64),F,France,Nord
+1252,48,Adults (35-64),F,France,Essonne
+1253,22,Youth (<25),M,Australia,Victoria
+1254,58,Adults (35-64),M,Canada,British Columbia
+1255,57,Adults (35-64),F,Canada,British Columbia
+1256,48,Adults (35-64),M,United States,Washington
+1257,40,Adults (35-64),M,Australia,New South Wales
+1258,30,Young Adults (25-34),F,Australia,South Australia
+1259,28,Young Adults (25-34),F,Australia,Tasmania
+1260,62,Adults (35-64),F,Canada,British Columbia
+1261,37,Adults (35-64),M,Australia,South Australia
+1262,40,Adults (35-64),F,Australia,New South Wales
+1263,30,Young Adults (25-34),F,Germany,Nordrhein-Westfalen
+1264,31,Young Adults (25-34),M,France,Nord
+1265,32,Young Adults (25-34),F,France,Seine Saint Denis
+1266,58,Adults (35-64),M,United Kingdom,England
+1267,57,Adults (35-64),F,United Kingdom,England
+1268,18,Youth (<25),M,Australia,Victoria
+1269,54,Adults (35-64),M,United Kingdom,England
+1270,36,Adults (35-64),F,Germany,Saarland
+1271,27,Young Adults (25-34),F,France,Nord
+1272,29,Young Adults (25-34),F,Germany,Bayern
+1273,18,Youth (<25),F,France,Nord
+1274,27,Young Adults (25-34),F,Germany,Nordrhein-Westfalen
+1275,23,Youth (<25),F,Germany,Bayern
+1276,17,Youth (<25),F,France,Hauts de Seine
+1277,19,Youth (<25),M,Germany,Hessen
+1278,25,Young Adults (25-34),M,France,Hauts de Seine
+1279,41,Adults (35-64),F,Canada,British Columbia
+1280,42,Adults (35-64),M,Germany,Hamburg
+1281,22,Youth (<25),F,Australia,Queensland
+1282,49,Adults (35-64),F,Australia,Queensland
+1283,44,Adults (35-64),F,Australia,New South Wales
+1284,27,Young Adults (25-34),M,Australia,South Australia
+1285,27,Young Adults (25-34),F,Australia,Tasmania
+1286,36,Adults (35-64),F,Australia,Victoria
+1287,54,Adults (35-64),M,Australia,New South Wales
+1288,30,Young Adults (25-34),F,Germany,Bayern
+1289,23,Youth (<25),M,France,Charente-Maritime
+1290,57,Adults (35-64),F,France,Yveline
+1291,18,Youth (<25),F,Australia,Queensland
+1292,20,Youth (<25),M,Australia,Victoria
+1293,20,Youth (<25),F,Australia,Victoria
+1294,36,Adults (35-64),M,Germany,Bayern
+1295,37,Adults (35-64),M,France,Seine (Paris)
+1296,37,Adults (35-64),F,France,Seine (Paris)
+1297,37,Adults (35-64),F,France,Yveline
+1298,44,Adults (35-64),M,Germany,Hamburg
+1299,45,Adults (35-64),M,France,Seine (Paris)
+1300,46,Adults (35-64),M,United Kingdom,England
+1301,50,Adults (35-64),F,United Kingdom,England
+1302,27,Young Adults (25-34),M,Australia,Victoria
+1303,39,Adults (35-64),M,United States,Oregon
+1304,35,Adults (35-64),M,United States,Washington
+1305,40,Adults (35-64),F,Australia,Victoria
+1306,58,Adults (35-64),F,Australia,New South Wales
+1307,58,Adults (35-64),F,Australia,Victoria
+1308,30,Young Adults (25-34),M,France,Nord
+1309,30,Young Adults (25-34),M,Germany,Saarland
+1310,33,Young Adults (25-34),F,Germany,Nordrhein-Westfalen
+1311,35,Adults (35-64),F,France,Seine Saint Denis
+1312,21,Youth (<25),F,Australia,South Australia
+1313,36,Adults (35-64),F,Germany,Hamburg
+1314,28,Young Adults (25-34),F,Germany,Saarland
+1315,71,Seniors (64+),M,Australia,Queensland
+1316,27,Young Adults (25-34),F,Germany,Hessen
+1317,24,Youth (<25),M,Germany,Nordrhein-Westfalen
+1318,25,Young Adults (25-34),M,France,Seine (Paris)
+1319,27,Young Adults (25-34),F,France,Seine et Marne
+1320,26,Young Adults (25-34),M,France,Somme
+1321,51,Adults (35-64),M,Germany,Nordrhein-Westfalen
+1322,47,Adults (35-64),F,France,Seine (Paris)
+1323,22,Youth (<25),M,Australia,Tasmania
+1324,23,Youth (<25),M,Australia,Victoria
+1325,25,Young Adults (25-34),M,Australia,Queensland
+1326,27,Young Adults (25-34),M,Australia,Queensland
+1327,53,Adults (35-64),F,Australia,Queensland
+1328,44,Adults (35-64),M,Australia,South Australia
+1329,43,Adults (35-64),F,Australia,Victoria
+1330,43,Adults (35-64),F,Australia,New South Wales
+1331,39,Adults (35-64),M,Australia,Victoria
+1332,38,Adults (35-64),M,Australia,South Australia
+1333,39,Adults (35-64),M,United States,Washington
+1334,29,Young Adults (25-34),F,Australia,South Australia
+1335,43,Adults (35-64),M,Canada,British Columbia
+1336,33,Young Adults (25-34),M,Australia,South Australia
+1337,33,Young Adults (25-34),F,Australia,South Australia
+1338,37,Adults (35-64),F,Australia,New South Wales
+1339,38,Adults (35-64),M,Australia,Victoria
+1340,37,Adults (35-64),M,Australia,New South Wales
+1341,37,Adults (35-64),M,Australia,Queensland
+1342,59,Adults (35-64),F,Australia,New South Wales
+1343,55,Adults (35-64),M,Australia,New South Wales
+1344,32,Young Adults (25-34),M,Germany,Hamburg
+1345,63,Adults (35-64),F,France,Seine (Paris)
+1346,21,Youth (<25),F,United Kingdom,England
+1347,19,Youth (<25),F,Australia,New South Wales
+1348,18,Youth (<25),M,Australia,Queensland
+1349,19,Youth (<25),M,Australia,Queensland
+1350,20,Youth (<25),M,Australia,New South Wales
+1351,50,Adults (35-64),F,Australia,South Australia
+1352,46,Adults (35-64),M,Australia,Queensland
+1353,59,Adults (35-64),F,Australia,South Australia
+1354,56,Adults (35-64),M,Australia,Queensland
+1355,40,Adults (35-64),F,Australia,Queensland
+1356,56,Adults (35-64),F,Germany,Hessen
+1357,38,Adults (35-64),M,France,Hauts de Seine
+1358,44,Adults (35-64),M,France,Seine (Paris)
+1359,17,Youth (<25),M,France,Val d'Oise
+1360,20,Youth (<25),F,France,Nord
+1361,20,Youth (<25),F,Germany,Hamburg
+1362,20,Youth (<25),F,Germany,Nordrhein-Westfalen
+1363,35,Adults (35-64),F,France,Charente-Maritime
+1364,36,Adults (35-64),M,France,Seine (Paris)
+1365,62,Adults (35-64),M,France,Val de Marne
+1366,39,Adults (35-64),M,France,Essonne
+1367,59,Adults (35-64),M,France,Loir et Cher
+1368,58,Adults (35-64),M,Germany,Nordrhein-Westfalen
+1369,28,Young Adults (25-34),M,France,Nord
+1370,43,Adults (35-64),M,France,Seine (Paris)
+1371,45,Adults (35-64),M,Germany,Hamburg
+1372,47,Adults (35-64),M,France,Nord
+1373,48,Adults (35-64),M,France,Yveline
+1374,17,Youth (<25),M,Germany,Bayern
+1375,21,Youth (<25),M,Germany,Nordrhein-Westfalen
+1376,35,Adults (35-64),M,United States,Ohio
+1377,60,Adults (35-64),F,France,Seine et Marne
+1378,56,Adults (35-64),M,France,Hauts de Seine
+1379,46,Adults (35-64),F,Germany,Nordrhein-Westfalen
+1380,56,Adults (35-64),F,United States,Oregon
+1381,26,Young Adults (25-34),F,Germany,Saarland
+1382,33,Young Adults (25-34),M,Germany,Bayern
+1383,31,Young Adults (25-34),M,Australia,South Australia
+1384,39,Adults (35-64),M,Germany,Hessen
+1385,46,Adults (35-64),F,Germany,Bayern
+1386,51,Adults (35-64),F,Germany,Hessen
+1387,60,Adults (35-64),F,France,Garonne (Haute)
+1388,30,Young Adults (25-34),M,France,Yveline
+1389,19,Youth (<25),F,Germany,Hamburg
+1390,34,Young Adults (25-34),F,France,Seine (Paris)
+1391,20,Youth (<25),F,Australia,Tasmania
+1392,47,Adults (35-64),F,Germany,Hessen
+1393,57,Adults (35-64),F,Australia,Victoria
+1394,57,Adults (35-64),M,Australia,Queensland
+1395,53,Adults (35-64),M,Germany,Saarland
+1396,50,Adults (35-64),F,France,Hauts de Seine
+1397,22,Youth (<25),M,Australia,Queensland
+1398,52,Adults (35-64),M,Canada,British Columbia
+1399,42,Adults (35-64),F,France,Seine (Paris)
+1400,30,Young Adults (25-34),F,France,Hauts de Seine
+1401,34,Young Adults (25-34),F,Germany,Bayern
+1402,34,Young Adults (25-34),F,France,Nord
+1403,20,Youth (<25),M,France,Pas de Calais
+1404,28,Young Adults (25-34),F,France,Val d'Oise
+1405,23,Youth (<25),F,Germany,Hamburg
+1406,25,Young Adults (25-34),M,France,Yveline
+1407,25,Young Adults (25-34),F,Australia,Victoria
+1408,62,Adults (35-64),M,Canada,British Columbia
+1409,61,Adults (35-64),F,United Kingdom,England
+1410,28,Young Adults (25-34),F,Germany,Hamburg
+1411,33,Young Adults (25-34),F,Germany,Bayern
+1412,20,Youth (<25),F,Germany,Hessen
+1413,62,Adults (35-64),F,France,Loiret
+1414,42,Adults (35-64),F,France,Yveline
+1415,38,Adults (35-64),F,France,Nord
+1416,31,Young Adults (25-34),F,Australia,Tasmania
+1417,59,Adults (35-64),M,Australia,New South Wales
+1418,26,Young Adults (25-34),F,France,Garonne (Haute)
+1419,51,Adults (35-64),M,France,Moselle
+1420,39,Adults (35-64),M,Germany,Bayern
+1421,28,Young Adults (25-34),M,France,Essonne
+1422,19,Youth (<25),F,France,Seine Saint Denis
+1423,51,Adults (35-64),F,France,Seine (Paris)
+1424,47,Adults (35-64),M,Germany,Hessen
+1425,19,Youth (<25),M,France,Essonne
+1426,26,Young Adults (25-34),M,France,Loiret
+1427,54,Adults (35-64),F,Germany,Nordrhein-Westfalen
+1428,17,Youth (<25),F,United States,Washington
+1429,31,Young Adults (25-34),M,France,Seine et Marne
+1430,22,Youth (<25),F,France,Yveline
+1431,56,Adults (35-64),F,Germany,Hamburg
+1432,30,Young Adults (25-34),F,France,Essonne
+1433,33,Young Adults (25-34),F,France,Essonne
+1434,18,Youth (<25),M,France,Pas de Calais
+1435,18,Youth (<25),M,United States,Oregon
+1436,36,Adults (35-64),M,Germany,Brandenburg
+1437,44,Adults (35-64),F,France,Loir et Cher
+1438,25,Young Adults (25-34),F,United States,Wyoming
+1439,53,Adults (35-64),F,Germany,Saarland
+1440,29,Young Adults (25-34),M,Australia,South Australia
+1441,61,Adults (35-64),F,Australia,New South Wales
+1442,52,Adults (35-64),F,Australia,New South Wales
+1443,26,Young Adults (25-34),F,France,Val de Marne
+1444,35,Adults (35-64),F,France,Hauts de Seine
+1445,39,Adults (35-64),M,France,Seine (Paris)
+1446,32,Young Adults (25-34),M,France,Essonne
+1447,41,Adults (35-64),F,France,Seine Saint Denis
+1448,41,Adults (35-64),M,Germany,Saarland
+1449,37,Adults (35-64),M,France,Garonne (Haute)
+1450,18,Youth (<25),M,United Kingdom,England
+1451,21,Youth (<25),F,Germany,Hessen
+1452,21,Youth (<25),F,Germany,Saarland
+1453,50,Adults (35-64),M,Germany,Saarland
+1454,31,Young Adults (25-34),F,Australia,South Australia
+1455,50,Adults (35-64),F,Australia,Queensland
+1456,53,Adults (35-64),M,France,Hauts de Seine
+1457,48,Adults (35-64),M,France,Charente-Maritime
+1458,19,Youth (<25),F,France,Seine (Paris)
+1459,21,Youth (<25),M,France,Hauts de Seine
+1460,54,Adults (35-64),F,France,Hauts de Seine
+1461,18,Youth (<25),F,France,Seine Saint Denis
+1462,20,Youth (<25),M,France,Seine et Marne
+1463,28,Young Adults (25-34),F,France,Yveline
+1464,17,Youth (<25),M,Germany,Nordrhein-Westfalen
+1465,24,Youth (<25),M,France,Seine (Paris)
+1466,67,Seniors (64+),M,United States,Oregon
+1467,53,Adults (35-64),M,France,Moselle
+1468,24,Youth (<25),F,Australia,Tasmania
+1469,44,Adults (35-64),F,Germany,Hessen
+1470,32,Young Adults (25-34),M,France,Seine et Marne
+1471,35,Adults (35-64),M,France,Seine Saint Denis
+1472,36,Adults (35-64),M,France,Seine Saint Denis
+1473,39,Adults (35-64),F,France,Nord
+1474,21,Youth (<25),F,France,Nord
+1475,21,Youth (<25),M,Germany,Hamburg
+1476,62,Adults (35-64),M,United Kingdom,England
+1477,40,Adults (35-64),M,France,Moselle
+1478,29,Young Adults (25-34),F,Germany,Nordrhein-Westfalen
+1479,48,Adults (35-64),M,Germany,Hessen
+1480,50,Adults (35-64),F,France,Seine (Paris)
+1481,48,Adults (35-64),F,Australia,South Australia
+1482,19,Youth (<25),M,France,Hauts de Seine
+1483,29,Young Adults (25-34),F,Germany,Brandenburg
+1484,72,Seniors (64+),M,France,Essonne
+1485,30,Young Adults (25-34),M,Germany,Brandenburg
+1486,32,Young Adults (25-34),M,France,Yveline
+1487,67,Seniors (64+),F,United Kingdom,England
+1488,22,Youth (<25),F,France,Seine Saint Denis
+1489,21,Youth (<25),F,Germany,Bayern
+1490,27,Young Adults (25-34),M,France,Nord
+1491,24,Youth (<25),M,Germany,Bayern
+1492,44,Adults (35-64),M,France,Yveline
+1493,23,Youth (<25),F,France,Essonne
+1494,34,Young Adults (25-34),F,Germany,Hessen
+1495,19,Youth (<25),M,France,Nord
+1496,35,Adults (35-64),F,Germany,Hamburg
+1497,19,Youth (<25),F,France,Loiret
+1498,23,Youth (<25),F,France,Loiret
+1499,24,Youth (<25),M,France,Yveline
+1500,43,Adults (35-64),M,Germany,Hessen
+1501,51,Adults (35-64),F,Canada,British Columbia
+1502,33,Young Adults (25-34),F,Germany,Saarland
+1503,31,Young Adults (25-34),M,France,Hauts de Seine
+1504,31,Young Adults (25-34),M,France,Val de Marne
+1505,36,Adults (35-64),M,Germany,Hessen
+1506,19,Youth (<25),F,Australia,South Australia
+1507,38,Adults (35-64),F,France,Essonne
+1508,38,Adults (35-64),M,Germany,Hamburg
+1509,23,Youth (<25),F,France,Val de Marne
+1510,17,Youth (<25),M,France,Essonne
+1511,17,Youth (<25),F,Germany,Hamburg
+1512,82,Seniors (64+),F,France,Seine (Paris)
+1513,46,Adults (35-64),F,France,Nord
+1514,21,Youth (<25),M,France,Yveline
+1515,35,Adults (35-64),F,Germany,Nordrhein-Westfalen
+1516,62,Adults (35-64),M,Australia,New South Wales
+1517,64,Adults (35-64),M,United States,California
+1518,24,Youth (<25),M,Australia,Tasmania
+1519,64,Adults (35-64),M,United States,Oregon
+1520,33,Young Adults (25-34),F,France,Garonne (Haute)
+1521,24,Youth (<25),M,Germany,Saarland
+1522,53,Adults (35-64),F,Australia,Tasmania
+1523,52,Adults (35-64),F,United States,Oregon
+1524,66,Seniors (64+),M,United States,California
+1525,24,Youth (<25),M,France,Seine Saint Denis
+1526,47,Adults (35-64),F,United States,Texas
+1527,55,Adults (35-64),F,Germany,Hamburg
+1528,24,Youth (<25),F,France,Seine (Paris)
+1529,66,Seniors (64+),F,Germany,Nordrhein-Westfalen
+1530,58,Adults (35-64),F,France,Loiret
+1531,54,Adults (35-64),M,France,Seine et Marne
+1532,43,Adults (35-64),M,France,Seine Saint Denis
+1533,59,Adults (35-64),F,Germany,Hessen
+1534,44,Adults (35-64),F,France,Moselle
+1535,17,Youth (<25),M,Germany,Hamburg
+1536,29,Young Adults (25-34),F,France,Charente-Maritime
+1537,71,Seniors (64+),M,Germany,Nordrhein-Westfalen
+1538,66,Seniors (64+),M,Australia,New South Wales
+1539,42,Adults (35-64),M,Australia,Queensland
+1540,49,Adults (35-64),M,France,Seine et Marne
+1541,29,Young Adults (25-34),M,Germany,Nordrhein-Westfalen
+1542,18,Youth (<25),M,Germany,Hamburg
+1543,51,Adults (35-64),F,France,Nord
+1544,59,Adults (35-64),M,France,Seine (Paris)
+1545,28,Young Adults (25-34),F,France,Garonne (Haute)
+1546,50,Adults (35-64),M,Australia,South Australia
+1547,59,Adults (35-64),F,United States,Oregon
+1548,17,Youth (<25),F,France,Seine (Paris)
+1549,47,Adults (35-64),F,France,Val d'Oise
+1550,59,Adults (35-64),M,Australia,Victoria
+1551,78,Seniors (64+),M,United States,California
+1552,19,Youth (<25),F,Germany,Hessen
+1553,56,Adults (35-64),M,France,Seine (Paris)
+1554,51,Adults (35-64),F,France,Yveline
+1555,53,Adults (35-64),F,Australia,Victoria
+1556,53,Adults (35-64),M,United States,Washington
+1557,34,Young Adults (25-34),F,France,Yveline
+1558,61,Adults (35-64),F,United States,Oregon
+1559,27,Young Adults (25-34),M,France,Seine (Paris)
+1560,48,Adults (35-64),F,Germany,Bayern
+1561,28,Young Adults (25-34),M,Australia,South Australia
+1562,65,Seniors (64+),F,United States,Washington
+1563,35,Adults (35-64),F,United States,Missouri
+1564,65,Seniors (64+),M,United States,Oregon
+1565,28,Young Adults (25-34),M,France,Yveline
+1566,28,Young Adults (25-34),F,France,Nord
+1567,24,Youth (<25),F,Germany,Hessen
+1568,21,Youth (<25),F,France,Hauts de Seine
+1569,21,Youth (<25),M,France,Seine Saint Denis
+1570,21,Youth (<25),F,France,Essonne
+1571,73,Seniors (64+),F,United States,California
+1572,38,Adults (35-64),M,France,Val d'Oise
+1573,38,Adults (35-64),M,France,Seine (Paris)
+1574,75,Seniors (64+),F,France,Yveline
+1575,25,Young Adults (25-34),M,Australia,Tasmania
+1576,60,Adults (35-64),F,Germany,Saarland
+1577,73,Seniors (64+),M,Germany,Saarland
+1578,30,Young Adults (25-34),M,France,Essonne
+1579,18,Youth (<25),M,Germany,Saarland
+1580,19,Youth (<25),F,France,Essonne
+1581,86,Seniors (64+),M,Germany,Saarland
+1582,22,Youth (<25),M,Germany,Hessen
+1583,32,Young Adults (25-34),M,France,Hauts de Seine
+1584,77,Seniors (64+),F,Germany,Saarland
+1585,64,Adults (35-64),F,United States,Oregon
+1586,41,Adults (35-64),F,Australia,South Australia
+1587,76,Seniors (64+),F,United States,Oregon
+1588,19,Youth (<25),F,France,Hauts de Seine
+1589,38,Adults (35-64),F,France,Seine (Paris)
+1590,41,Adults (35-64),M,France,Loiret
+1591,41,Adults (35-64),M,France,Yveline
+1592,60,Adults (35-64),F,United States,Oregon
+1593,27,Young Adults (25-34),F,France,Hauts de Seine
+1594,69,Seniors (64+),F,United Kingdom,England
+1595,48,Adults (35-64),F,Australia,Queensland
+1596,51,Adults (35-64),M,Germany,Saarland
+1597,24,Youth (<25),F,Australia,South Australia
+1598,53,Adults (35-64),F,Germany,Hessen
+1599,52,Adults (35-64),M,Germany,Hessen
+1600,47,Adults (35-64),F,Germany,Hamburg
+1601,49,Adults (35-64),M,France,Seine Saint Denis
+1602,59,Adults (35-64),M,Australia,Queensland
+1603,53,Adults (35-64),M,Australia,Queensland
+1604,74,Seniors (64+),F,Canada,British Columbia
+1605,39,Adults (35-64),M,France,Yveline
+1606,34,Young Adults (25-34),M,France,Essonne
+1607,43,Adults (35-64),F,France,Nord
+1608,53,Adults (35-64),M,Germany,Nordrhein-Westfalen
+1609,51,Adults (35-64),M,France,Yveline
+1610,51,Adults (35-64),M,France,Seine Saint Denis
+1611,43,Adults (35-64),F,France,Loir et Cher
+1612,24,Youth (<25),M,Australia,South Australia
+1613,31,Young Adults (25-34),F,France,Seine Saint Denis
+1614,31,Young Adults (25-34),M,Germany,Nordrhein-Westfalen
+1615,28,Young Adults (25-34),M,Germany,Brandenburg
+1616,33,Young Adults (25-34),M,Canada,Alberta
+1617,24,Youth (<25),M,France,Seine et Marne
+1618,41,Adults (35-64),M,Germany,Bayern
+1619,44,Adults (35-64),F,France,Seine Saint Denis
+1620,34,Young Adults (25-34),M,Australia,South Australia
+1621,61,Adults (35-64),F,Australia,Victoria
+1622,60,Adults (35-64),M,Australia,Victoria
+1623,64,Adults (35-64),F,Australia,New South Wales
+1624,63,Adults (35-64),M,Australia,New South Wales
+1625,50,Adults (35-64),M,Germany,Nordrhein-Westfalen
+1626,21,Youth (<25),M,Australia,Queensland
+1627,37,Adults (35-64),M,Australia,Tasmania
+1628,50,Adults (35-64),M,France,Nord
+1629,51,Adults (35-64),F,France,Seine Saint Denis
+1630,45,Adults (35-64),F,Germany,Brandenburg
+1631,57,Adults (35-64),M,France,Essonne
+1632,17,Youth (<25),F,France,Essonne
+1633,17,Youth (<25),M,France,Seine (Paris)
+1634,31,Young Adults (25-34),F,France,Hauts de Seine
+1635,46,Adults (35-64),F,France,Seine (Paris)
+1636,39,Adults (35-64),F,Australia,South Australia
+1637,52,Adults (35-64),M,Australia,New South Wales
+1638,24,Youth (<25),F,France,Hauts de Seine
+1639,18,Youth (<25),M,Germany,Hessen
+1640,84,Seniors (64+),F,France,Yveline
+1641,59,Adults (35-64),M,Germany,Nordrhein-Westfalen
+1642,63,Adults (35-64),F,Germany,Nordrhein-Westfalen
+1643,59,Adults (35-64),M,France,Essonne
+1644,37,Adults (35-64),M,Germany,Brandenburg
+1645,25,Young Adults (25-34),M,Germany,Bayern
+1646,30,Young Adults (25-34),M,France,Moselle
+1647,31,Young Adults (25-34),F,France,Essonne
+1648,45,Adults (35-64),F,France,Yveline
+1649,36,Adults (35-64),F,France,Seine (Paris)
+1650,36,Adults (35-64),M,Germany,Saarland
+1651,56,Adults (35-64),M,Germany,Nordrhein-Westfalen
+1652,45,Adults (35-64),M,Australia,South Australia
+1653,32,Young Adults (25-34),F,France,Seine (Paris)
+1654,34,Young Adults (25-34),M,France,Nord
+1655,47,Adults (35-64),M,Australia,Tasmania
+1656,49,Adults (35-64),F,France,Nord
+1657,65,Seniors (64+),F,France,Nord
+1658,35,Adults (35-64),F,France,Yveline
+1659,21,Youth (<25),M,France,Essonne
+1660,72,Seniors (64+),F,France,Yveline
+1661,35,Adults (35-64),F,United States,Montana
+1662,21,Youth (<25),F,France,Somme
+1663,54,Adults (35-64),F,France,Seine (Paris)
+1664,48,Adults (35-64),F,France,Somme
+1665,58,Adults (35-64),F,United States,Oregon
+1666,61,Adults (35-64),M,United States,Illinois
+1667,43,Adults (35-64),M,France,Hauts de Seine
+1668,48,Adults (35-64),M,France,Pas de Calais
+1669,34,Young Adults (25-34),M,France,Moselle
+1670,31,Young Adults (25-34),M,France,Garonne (Haute)
+1671,42,Adults (35-64),M,France,Val d'Oise
+1672,44,Adults (35-64),F,Germany,Hamburg
+1673,57,Adults (35-64),F,Australia,Queensland
+1674,32,Young Adults (25-34),M,Australia,Tasmania
+1675,43,Adults (35-64),M,Australia,South Australia
+1676,64,Adults (35-64),F,United States,Washington
+1677,54,Adults (35-64),M,Germany,Nordrhein-Westfalen
+1678,29,Young Adults (25-34),F,France,Yveline
+1679,52,Adults (35-64),M,Germany,Nordrhein-Westfalen
+1680,45,Adults (35-64),F,Germany,Nordrhein-Westfalen
+1681,48,Adults (35-64),F,Germany,Nordrhein-Westfalen
+1682,26,Young Adults (25-34),F,Germany,Bayern
+1683,26,Young Adults (25-34),M,Germany,Brandenburg
+1684,71,Seniors (64+),F,France,Seine Saint Denis
+1685,71,Seniors (64+),F,United Kingdom,England
+1686,64,Adults (35-64),M,United Kingdom,England
+1687,18,Youth (<25),M,France,Essonne
+1688,19,Youth (<25),F,France,Val de Marne
+1689,20,Youth (<25),F,France,Hauts de Seine
+1690,38,Adults (35-64),M,United States,Ohio
+1691,56,Adults (35-64),M,Australia,Tasmania
+1692,56,Adults (35-64),F,Australia,Queensland
+1693,42,Adults (35-64),M,France,Nord
+1694,43,Adults (35-64),M,France,Essonne
+1695,56,Adults (35-64),F,Germany,Saarland
+1696,37,Adults (35-64),F,France,Nord
+1697,38,Adults (35-64),F,Germany,Nordrhein-Westfalen
+1698,24,Youth (<25),M,France,Moselle
+1699,17,Youth (<25),F,France,Nord
+1700,25,Young Adults (25-34),F,France,Nord
+1701,26,Young Adults (25-34),M,France,Yveline
+1702,33,Young Adults (25-34),F,France,Nord
+1703,21,Youth (<25),M,France,Seine (Paris)
+1704,53,Adults (35-64),F,France,Hauts de Seine
+1705,24,Youth (<25),F,France,Essonne
+1706,67,Seniors (64+),F,United States,Washington
+1707,31,Young Adults (25-34),M,France,Seine Saint Denis
+1708,63,Adults (35-64),F,United Kingdom,England
+1709,32,Young Adults (25-34),F,France,Essonne
+1710,29,Young Adults (25-34),M,Australia,Tasmania
+1711,63,Adults (35-64),F,Australia,Queensland
+1712,61,Adults (35-64),F,Australia,Queensland
+1713,57,Adults (35-64),F,Australia,South Australia
+1714,39,Adults (35-64),F,Germany,Hamburg
+1715,55,Adults (35-64),F,Germany,Brandenburg
+1716,55,Adults (35-64),F,Germany,Hessen
+1717,38,Adults (35-64),F,France,Yveline
+1718,62,Adults (35-64),M,Australia,Victoria
+1719,50,Adults (35-64),F,France,Seine et Marne
+1720,36,Adults (35-64),M,Australia,Tasmania
+1721,53,Adults (35-64),F,United States,Oregon
+1722,55,Adults (35-64),F,France,Nord
+1723,17,Youth (<25),F,Germany,Hessen
+1724,18,Youth (<25),M,France,Nord
+1725,24,Youth (<25),F,France,Loir et Cher
+1726,18,Youth (<25),F,France,Loiret
+1727,85,Seniors (64+),M,United Kingdom,England
+1728,24,Youth (<25),F,France,Garonne (Haute)
+1729,24,Youth (<25),F,France,Pas de Calais
+1730,37,Adults (35-64),F,France,Seine Saint Denis
+1731,30,Young Adults (25-34),M,Australia,South Australia
+1732,35,Adults (35-64),M,France,Val de Marne
+1733,81,Seniors (64+),F,Germany,Nordrhein-Westfalen
+1734,36,Adults (35-64),M,France,Yveline
+1735,38,Adults (35-64),F,France,Moselle
+1736,46,Adults (35-64),F,Germany,Hamburg
+1737,47,Adults (35-64),M,Germany,Bayern
+1738,48,Adults (35-64),F,Germany,Hamburg
+1739,59,Adults (35-64),F,Australia,Victoria
+1740,62,Adults (35-64),M,United States,Washington
+1741,36,Adults (35-64),F,Germany,Nordrhein-Westfalen
+1742,23,Youth (<25),F,France,Seine Saint Denis
+1743,30,Young Adults (25-34),F,France,Loiret
+1744,33,Young Adults (25-34),F,France,Seine (Paris)
+1745,29,Young Adults (25-34),F,France,Garonne (Haute)
+1746,33,Young Adults (25-34),M,France,Nord
+1747,22,Youth (<25),F,France,Nord
+1748,17,Youth (<25),M,Australia,Tasmania
+1749,17,Youth (<25),M,Australia,Queensland
+1750,36,Adults (35-64),M,France,Val d'Oise
+1751,75,Seniors (64+),F,Germany,Hessen
+1752,51,Adults (35-64),F,France,Hauts de Seine
+1753,51,Adults (35-64),F,Australia,Tasmania
+1754,61,Adults (35-64),F,France,Hauts de Seine
+1755,31,Young Adults (25-34),F,United States,New York
+1756,43,Adults (35-64),F,Australia,South Australia
+1757,25,Young Adults (25-34),F,France,Essonne
+1758,41,Adults (35-64),M,France,Seine Saint Denis
+1759,22,Youth (<25),M,France,Pas de Calais
+1760,36,Adults (35-64),F,France,Moselle
+1761,42,Adults (35-64),F,France,Essonne
+1762,57,Adults (35-64),F,Germany,Hessen
+1763,36,Adults (35-64),M,France,Essonne
+1764,64,Adults (35-64),M,Germany,Nordrhein-Westfalen
+1765,63,Adults (35-64),M,Germany,Hamburg
+1766,32,Young Adults (25-34),F,France,Seine et Marne
+1767,32,Young Adults (25-34),M,France,Loiret
+1768,85,Seniors (64+),M,Germany,Nordrhein-Westfalen
+1769,23,Youth (<25),F,Germany,Nordrhein-Westfalen
+1770,65,Seniors (64+),M,Australia,Victoria
+1771,39,Adults (35-64),M,Australia,Tasmania
+1772,48,Adults (35-64),M,Australia,Tasmania
+1773,52,Adults (35-64),F,France,Seine (Paris)
+1774,25,Young Adults (25-34),F,Germany,Hessen
+1775,25,Young Adults (25-34),M,France,Seine Saint Denis
+1776,36,Adults (35-64),M,France,Hauts de Seine
+1777,23,Youth (<25),M,France,Loiret
+1778,27,Young Adults (25-34),F,France,Moselle
+1779,77,Seniors (64+),F,United Kingdom,England
+1780,33,Young Adults (25-34),F,France,Moselle
+1781,18,Youth (<25),M,France,Seine (Paris)
+1782,35,Adults (35-64),M,France,Charente-Maritime
+1783,22,Youth (<25),M,France,Seine Saint Denis
+1784,65,Seniors (64+),M,Australia,Queensland
+1785,55,Adults (35-64),M,Australia,Victoria
+1786,55,Adults (35-64),F,Australia,Queensland
+1787,51,Adults (35-64),F,Germany,Hamburg
+1788,43,Adults (35-64),F,France,Hauts de Seine
+1789,44,Adults (35-64),M,France,Essonne
+1790,50,Adults (35-64),M,France,Val de Marne
+1791,24,Youth (<25),F,France,Yveline
+1792,62,Adults (35-64),F,Germany,Hessen
+1793,43,Adults (35-64),M,France,Yveline
+1794,54,Adults (35-64),M,France,Val de Marne
+1795,36,Adults (35-64),F,Australia,Tasmania
+1796,41,Adults (35-64),M,France,Hauts de Seine
+1797,46,Adults (35-64),F,Germany,Hessen
+1798,49,Adults (35-64),F,France,Seine Saint Denis
+1799,50,Adults (35-64),F,France,Loir et Cher
+1800,38,Adults (35-64),M,France,Nord
+1801,31,Young Adults (25-34),F,Germany,Bayern
+1802,32,Young Adults (25-34),F,France,Garonne (Haute)
+1803,23,Youth (<25),M,France,Moselle
+1804,22,Youth (<25),M,France,Seine et Marne
+1805,62,Adults (35-64),F,France,Yveline
+1806,60,Adults (35-64),M,France,Essonne
+1807,56,Adults (35-64),M,France,Nord
+1808,72,Seniors (64+),F,Germany,Nordrhein-Westfalen
+1809,22,Youth (<25),M,France,Loir et Cher
+1810,68,Seniors (64+),F,Australia,New South Wales
+1811,65,Seniors (64+),F,Australia,Victoria
+1812,38,Adults (35-64),F,Australia,South Australia
+1813,61,Adults (35-64),M,Australia,Victoria
+1814,40,Adults (35-64),M,France,Seine (Paris)
+1815,46,Adults (35-64),M,France,Seine et Marne
+1816,48,Adults (35-64),F,France,Seine Saint Denis
+1817,80,Seniors (64+),F,France,Nord
+1818,40,Adults (35-64),M,Australia,Tasmania
+1819,26,Young Adults (25-34),M,France,Seine Saint Denis
+1820,66,Seniors (64+),F,Canada,British Columbia
+1821,66,Seniors (64+),F,United States,Oregon
+1822,38,Adults (35-64),M,France,Yveline
+1823,27,Young Adults (25-34),F,France,Seine (Paris)
+1824,31,Young Adults (25-34),F,Germany,Brandenburg
+1825,31,Young Adults (25-34),M,France,Pas de Calais
+1826,20,Youth (<25),F,France,Pas de Calais
+1827,22,Youth (<25),M,France,Essonne
+1828,53,Adults (35-64),F,Germany,Brandenburg
+1829,50,Adults (35-64),M,Germany,Hamburg
+1830,19,Youth (<25),F,France,Val d'Oise
+1831,61,Adults (35-64),M,United States,Oregon
+1832,19,Youth (<25),F,Germany,Bayern
+1833,24,Youth (<25),F,France,Moselle
+1834,49,Adults (35-64),F,Australia,Tasmania
+1835,53,Adults (35-64),M,France,Seine Saint Denis
+1836,47,Adults (35-64),M,France,Yveline
+1837,47,Adults (35-64),F,Germany,Bayern
+1838,30,Young Adults (25-34),M,France,Hauts de Seine
+1839,36,Adults (35-64),M,France,Loir et Cher
+1840,39,Adults (35-64),F,France,Moselle
+1841,41,Adults (35-64),M,France,Nord
+1842,32,Young Adults (25-34),F,France,Pas de Calais
+1843,33,Young Adults (25-34),M,France,Essonne
+1844,22,Youth (<25),M,France,Hauts de Seine
+1845,62,Adults (35-64),F,Germany,Saarland
+1846,54,Adults (35-64),F,France,Val d'Oise
+1847,20,Youth (<25),M,Australia,Tasmania
+1848,27,Young Adults (25-34),M,France,Garonne (Haute)
+1849,51,Adults (35-64),F,Australia,Victoria
+1850,70,Seniors (64+),M,United States,California
+1851,67,Seniors (64+),F,Australia,New South Wales
+1852,52,Adults (35-64),M,France,Seine Saint Denis
+1853,25,Young Adults (25-34),F,France,Moselle
+1854,42,Adults (35-64),F,Australia,South Australia
+1855,54,Adults (35-64),F,Australia,South Australia
+1856,25,Young Adults (25-34),F,France,Loiret
+1857,29,Young Adults (25-34),M,France,Essonne
+1858,32,Young Adults (25-34),F,France,Loiret
+1859,31,Young Adults (25-34),F,France,Yveline
+1860,34,Young Adults (25-34),M,France,Garonne (Haute)
+1861,21,Youth (<25),F,France,Val d'Oise
+1862,21,Youth (<25),F,France,Moselle
+1863,61,Adults (35-64),F,France,Somme
+1864,37,Adults (35-64),M,France,Val de Marne
+1865,64,Adults (35-64),F,Germany,Hamburg
+1866,32,Young Adults (25-34),M,France,Val d'Oise
+1867,33,Young Adults (25-34),M,France,Seine (Paris)
+1868,18,Youth (<25),F,France,Seine (Paris)
+1869,20,Youth (<25),M,Australia,South Australia
+1870,44,Adults (35-64),F,France,Val d'Oise
+1871,25,Young Adults (25-34),M,France,Val d'Oise
+1872,26,Young Adults (25-34),M,France,Garonne (Haute)
+1873,39,Adults (35-64),M,Germany,Hamburg
+1874,29,Young Adults (25-34),M,France,Seine et Marne
+1875,30,Young Adults (25-34),F,Germany,Brandenburg
+1876,36,Adults (35-64),F,France,Nord
+1877,24,Youth (<25),M,Germany,Brandenburg
+1878,24,Youth (<25),F,Germany,Bayern
+1879,26,Young Adults (25-34),F,France,Hauts de Seine
+1880,28,Young Adults (25-34),M,France,Somme
+1881,28,Young Adults (25-34),F,France,Loir et Cher
+1882,27,Young Adults (25-34),M,France,Hauts de Seine
+1883,66,Seniors (64+),M,United States,Oregon
+1884,48,Adults (35-64),M,France,Nord
+1885,23,Youth (<25),M,Australia,South Australia
+1886,49,Adults (35-64),M,United States,Florida
+1887,67,Seniors (64+),M,Australia,Victoria
+1888,34,Young Adults (25-34),M,Australia,Tasmania
+1889,66,Seniors (64+),M,United Kingdom,England
+1890,20,Youth (<25),M,France,Seine (Paris)
+1891,61,Adults (35-64),M,France,Seine (Paris)
+1892,60,Adults (35-64),F,France,Seine (Paris)
+1893,55,Adults (35-64),F,France,Seine et Marne
+1894,55,Adults (35-64),M,Germany,Hessen
+1895,38,Adults (35-64),F,France,Val d'Oise
+1896,52,Adults (35-64),M,France,Garonne (Haute)
+1897,39,Adults (35-64),F,Germany,Bayern
+1898,27,Young Adults (25-34),F,Germany,Hamburg
+1899,45,Adults (35-64),F,Germany,Hessen
+1900,24,Youth (<25),M,United States,Utah
+1901,31,Young Adults (25-34),M,United States,Utah
+1902,53,Adults (35-64),F,France,Somme
+1903,48,Adults (35-64),M,France,Seine Saint Denis
+1904,59,Adults (35-64),F,Australia,Tasmania
+1905,37,Adults (35-64),M,France,Seine Saint Denis
+1906,36,Adults (35-64),F,France,Essonne
+1907,31,Young Adults (25-34),F,France,Val d'Oise
+1908,32,Young Adults (25-34),M,Australia,South Australia
+1909,64,Adults (35-64),M,France,Essonne
+1910,58,Adults (35-64),M,France,Seine Saint Denis
+1911,44,Adults (35-64),F,Germany,Nordrhein-Westfalen
+1912,75,Seniors (64+),M,United Kingdom,England
+1913,74,Seniors (64+),M,United Kingdom,England
+1914,22,Youth (<25),M,France,Val de Marne
+1915,23,Youth (<25),F,France,Yveline
+1916,51,Adults (35-64),M,France,Seine et Marne
+1917,70,Seniors (64+),M,Germany,Nordrhein-Westfalen
+1918,31,Young Adults (25-34),M,United States,Minnesota
+1919,44,Adults (35-64),M,France,Nord
+1920,29,Young Adults (25-34),M,France,Loiret
+1921,17,Youth (<25),M,France,Nord
+1922,34,Young Adults (25-34),F,France,Loiret
+1923,23,Youth (<25),M,France,Pas de Calais
+1924,64,Adults (35-64),F,Canada,British Columbia
+1925,19,Youth (<25),M,Canada,Alberta
+1926,39,Adults (35-64),F,France,Seine Saint Denis
+1927,29,Young Adults (25-34),F,France,Val d'Oise
+1928,67,Seniors (64+),M,Germany,Hamburg
+1929,52,Adults (35-64),F,France,Hauts de Seine
+1930,58,Adults (35-64),M,United States,Oregon
+1931,33,Young Adults (25-34),M,France,Seine et Marne
+1932,36,Adults (35-64),M,Australia,South Australia
+1933,38,Adults (35-64),M,Germany,Brandenburg
+1934,35,Adults (35-64),M,Australia,Tasmania
+1935,50,Adults (35-64),M,Australia,Tasmania
+1936,39,Adults (35-64),M,France,Seine et Marne
+1937,35,Adults (35-64),M,France,Val d'Oise
+1938,20,Youth (<25),M,France,Seine Saint Denis
+1939,46,Adults (35-64),F,United States,Mississippi
+1940,44,Adults (35-64),F,France,Seine et Marne
+1941,58,Adults (35-64),F,Australia,Tasmania
+1942,65,Seniors (64+),M,United Kingdom,England
+1943,72,Seniors (64+),F,United States,California
+1944,56,Adults (35-64),M,Australia,New South Wales
+1945,54,Adults (35-64),M,Australia,Queensland
+1946,18,Youth (<25),F,Germany,Hamburg
+1947,24,Youth (<25),F,France,Somme
+1948,46,Adults (35-64),F,France,Seine Saint Denis
+1949,64,Adults (35-64),M,France,Hauts de Seine
+1950,24,Youth (<25),F,France,Nord
+1951,47,Adults (35-64),M,France,Essonne
+1952,20,Youth (<25),F,France,Yveline
+1953,18,Youth (<25),F,France,Essonne
+1954,19,Youth (<25),M,France,Seine et Marne
+1955,51,Adults (35-64),M,Australia,South Australia
+1956,40,Adults (35-64),F,France,Seine Saint Denis
+1957,28,Young Adults (25-34),M,United States,Wyoming
+1958,18,Youth (<25),F,Germany,Bayern
+1959,35,Adults (35-64),M,France,Seine et Marne
+1960,41,Adults (35-64),M,France,Essonne
+1961,17,Youth (<25),F,Australia,South Australia
+1962,46,Adults (35-64),F,France,Hauts de Seine
+1963,29,Young Adults (25-34),F,France,Somme
+1964,33,Young Adults (25-34),M,France,Charente-Maritime
+1965,33,Young Adults (25-34),M,France,Somme
+1966,41,Adults (35-64),F,Australia,Tasmania
+1967,19,Youth (<25),F,Australia,Tasmania
+1968,56,Adults (35-64),M,Australia,South Australia
+1969,54,Adults (35-64),F,Australia,Victoria
+1970,41,Adults (35-64),F,France,Seine et Marne
+1971,31,Young Adults (25-34),F,France,Garonne (Haute)
+1972,41,Adults (35-64),M,France,Pas de Calais
+1973,27,Young Adults (25-34),M,United States,Illinois
+1974,48,Adults (35-64),F,United States,Massachusetts
+1975,32,Young Adults (25-34),M,United States,Arizona
+1976,35,Adults (35-64),F,France,Seine et Marne
+1977,43,Adults (35-64),F,France,Val de Marne
+1978,54,Adults (35-64),F,France,Nord
+1979,24,Youth (<25),F,France,Charente-Maritime
+1980,46,Adults (35-64),F,France,Val de Marne
+1981,46,Adults (35-64),M,France,Moselle
+1982,23,Youth (<25),M,France,Seine (Paris)
+1983,46,Adults (35-64),M,France,Nord
+1984,19,Youth (<25),F,France,Nord
+1985,55,Adults (35-64),M,France,Garonne (Haute)
+1986,37,Adults (35-64),M,Germany,Bayern
+1987,38,Adults (35-64),M,France,Charente-Maritime
+1988,17,Youth (<25),F,United States,Georgia
+1989,23,Youth (<25),F,Germany,Hessen
+1990,55,Adults (35-64),M,Australia,South Australia
+1991,39,Adults (35-64),M,France,Garonne (Haute)
+1992,27,Young Adults (25-34),M,France,Moselle
+1993,42,Adults (35-64),M,France,Somme
+1994,54,Adults (35-64),F,Germany,Hamburg
+1995,28,Young Adults (25-34),F,France,Moselle
+1996,22,Youth (<25),M,France,Loiret
+1997,28,Young Adults (25-34),M,France,Val de Marne
+1998,18,Youth (<25),M,France,Yveline
+1999,26,Young Adults (25-34),F,France,Essonne
+2000,17,Youth (<25),F,Australia,Tasmania
+2001,29,Young Adults (25-34),F,France,Essonne
+2002,30,Young Adults (25-34),M,France,Seine et Marne
+2003,39,Adults (35-64),F,France,Loiret
+2004,29,Young Adults (25-34),M,France,Yveline
+2005,69,Seniors (64+),M,Australia,Queensland
+2006,17,Youth (<25),M,France,Garonne (Haute)
+2007,39,Adults (35-64),F,Germany,Brandenburg
+2008,28,Young Adults (25-34),F,France,Val de Marne
+2009,40,Adults (35-64),F,Australia,Tasmania
+2010,54,Adults (35-64),M,Australia,South Australia
+2011,25,Young Adults (25-34),F,Canada,Alberta
+2012,35,Adults (35-64),F,Australia,South Australia
+2013,49,Adults (35-64),F,Australia,South Australia
+2014,22,Youth (<25),M,Canada,Alberta
+2015,26,Young Adults (25-34),M,France,Nord
+2016,56,Adults (35-64),F,France,Essonne
+2017,44,Adults (35-64),M,France,Pas de Calais
+2018,56,Adults (35-64),M,United States,Oregon
+2019,47,Adults (35-64),F,Australia,Tasmania
+2020,52,Adults (35-64),M,Australia,Victoria
+2021,70,Seniors (64+),M,Australia,Victoria
+2022,62,Adults (35-64),M,France,Seine Saint Denis
+2023,37,Adults (35-64),M,France,Moselle
+2024,59,Adults (35-64),M,France,Seine et Marne
+2025,29,Young Adults (25-34),F,France,Moselle
+2026,66,Seniors (64+),F,United States,California
+2027,40,Adults (35-64),F,United States,Alabama
+2028,70,Seniors (64+),F,France,Nord
+2029,21,Youth (<25),F,France,Pas de Calais
+2030,71,Seniors (64+),M,United Kingdom,England
+2031,20,Youth (<25),M,France,Nord
+2032,49,Adults (35-64),M,Germany,Saarland
+2033,50,Adults (35-64),M,France,Hauts de Seine
+2034,62,Adults (35-64),M,Germany,Nordrhein-Westfalen
+2035,17,Youth (<25),F,France,Yveline
+2036,61,Adults (35-64),M,France,Moselle
+2037,39,Adults (35-64),F,France,Seine et Marne
+2038,17,Youth (<25),M,France,Seine Saint Denis
+2039,24,Youth (<25),F,France,Loiret
+2040,52,Adults (35-64),F,Germany,Nordrhein-Westfalen
+2041,61,Adults (35-64),M,France,Yveline
+2042,34,Young Adults (25-34),F,France,Hauts de Seine
+2043,86,Seniors (64+),F,France,Yveline
+2044,81,Seniors (64+),F,Germany,Hessen
+2045,60,Adults (35-64),F,Germany,Bayern
+2046,54,Adults (35-64),F,France,Yveline
+2047,17,Youth (<25),F,Germany,Brandenburg
+2048,35,Adults (35-64),M,Germany,Hamburg
+2049,55,Adults (35-64),M,Germany,Nordrhein-Westfalen
+2050,36,Adults (35-64),M,France,Somme
+2051,38,Adults (35-64),M,France,Seine et Marne
+2052,38,Adults (35-64),F,France,Hauts de Seine
+2053,48,Adults (35-64),F,France,Val de Marne
+2054,48,Adults (35-64),F,France,Seine (Paris)
+2055,17,Youth (<25),F,United States,Illinois
+2056,48,Adults (35-64),M,Australia,South Australia
+2057,53,Adults (35-64),M,France,Essonne
+2058,45,Adults (35-64),F,Germany,Bayern
+2059,49,Adults (35-64),F,France,Garonne (Haute)
+2060,50,Adults (35-64),M,France,Loir et Cher
+2061,50,Adults (35-64),F,Germany,Hessen
+2062,60,Adults (35-64),F,Germany,Hessen
+2063,20,Youth (<25),M,Germany,Saarland
+2064,70,Seniors (64+),F,United Kingdom,England
+2065,58,Adults (35-64),F,Australia,Queensland
+2066,53,Adults (35-64),F,France,Seine Saint Denis
+2067,55,Adults (35-64),M,France,Nord
+2068,17,Youth (<25),M,Germany,Hessen
+2069,17,Youth (<25),M,France,Hauts de Seine
+2070,17,Youth (<25),F,France,Loiret
+2071,51,Adults (35-64),M,France,Seine (Paris)
+2072,47,Adults (35-64),M,France,Seine et Marne
+2073,49,Adults (35-64),M,France,Essonne
+2074,42,Adults (35-64),M,Germany,Bayern
+2075,33,Young Adults (25-34),M,France,Pas de Calais
+2076,60,Adults (35-64),F,Australia,South Australia
+2077,44,Adults (35-64),M,Germany,Saarland
+2078,44,Adults (35-64),F,France,Loiret
+2079,55,Adults (35-64),M,Canada,Alberta
+2080,25,Young Adults (25-34),F,Australia,Tasmania
+2081,60,Adults (35-64),F,United States,Illinois
+2082,60,Adults (35-64),F,France,Seine Saint Denis
+2083,55,Adults (35-64),F,France,Hauts de Seine
+2084,38,Adults (35-64),M,France,Moselle
+2085,64,Adults (35-64),F,France,Hauts de Seine
+2086,21,Youth (<25),M,United States,New York
+2087,60,Adults (35-64),M,France,Seine (Paris)
+2088,34,Young Adults (25-34),M,France,Val d'Oise
+2089,22,Youth (<25),F,Germany,Hessen
+2090,22,Youth (<25),F,France,Hauts de Seine
+2091,17,Youth (<25),M,France,Yveline
+2092,67,Seniors (64+),F,United States,Oregon
+2093,23,Youth (<25),M,Germany,Bayern
+2094,34,Young Adults (25-34),M,Germany,Hamburg
+2095,33,Young Adults (25-34),F,France,Loiret
+2096,19,Youth (<25),F,France,Garonne (Haute)
+2097,63,Adults (35-64),M,France,Yveline
+2098,42,Adults (35-64),M,France,Seine et Marne
+2099,70,Seniors (64+),M,France,Seine Saint Denis
+2100,68,Seniors (64+),F,France,Moselle
+2101,63,Adults (35-64),F,France,Seine et Marne
+2102,35,Adults (35-64),M,France,Yveline
+2103,56,Adults (35-64),M,France,Yveline
+2104,55,Adults (35-64),M,Germany,Saarland
+2105,52,Adults (35-64),F,Germany,Bayern
+2106,47,Adults (35-64),F,Germany,Nordrhein-Westfalen
+2107,81,Seniors (64+),M,France,Yveline
+2108,42,Adults (35-64),F,France,Val de Marne
+2109,53,Adults (35-64),F,France,Nord
+2110,44,Adults (35-64),M,France,Charente-Maritime
+2111,48,Adults (35-64),F,France,Hauts de Seine
+2112,49,Adults (35-64),F,France,Somme
+2113,50,Adults (35-64),F,France,Nord
+2114,37,Adults (35-64),F,Australia,Tasmania
+2115,26,Young Adults (25-34),M,France,Seine et Marne
+2116,79,Seniors (64+),M,United Kingdom,England
+2117,24,Youth (<25),F,United States,Arizona
+2118,64,Adults (35-64),F,United Kingdom,England
+2119,63,Adults (35-64),M,France,Seine (Paris)
+2120,84,Seniors (64+),M,France,Seine Saint Denis
+2121,62,Adults (35-64),M,France,Moselle
+2122,20,Youth (<25),F,France,Val d'Oise
+2123,53,Adults (35-64),F,Australia,South Australia
+2124,49,Adults (35-64),M,Australia,Tasmania
+2125,64,Adults (35-64),F,Australia,Victoria
+2126,79,Seniors (64+),M,United States,California
+2127,40,Adults (35-64),M,France,Val d'Oise
+2128,41,Adults (35-64),M,Germany,Brandenburg
+2129,44,Adults (35-64),F,France,Nord
+2130,70,Seniors (64+),M,United States,Washington
+2131,20,Youth (<25),M,United States,Texas
+2132,34,Young Adults (25-34),F,Germany,Nordrhein-Westfalen
+2133,33,Young Adults (25-34),M,France,Val d'Oise
+2134,19,Youth (<25),M,Germany,Bayern
+2135,58,Adults (35-64),F,Germany,Nordrhein-Westfalen
+2136,54,Adults (35-64),M,France,Loiret
+2137,54,Adults (35-64),M,France,Seine (Paris)
+2138,54,Adults (35-64),F,France,Somme
+2139,40,Adults (35-64),M,United States,Ohio
+2140,52,Adults (35-64),F,France,Yveline
+2141,49,Adults (35-64),M,France,Charente-Maritime
+2142,22,Youth (<25),M,United States,Illinois
+2143,64,Adults (35-64),M,Australia,Queensland
+2144,63,Adults (35-64),M,France,Hauts de Seine
+2145,62,Adults (35-64),M,Germany,Bayern
+2146,56,Adults (35-64),F,Germany,Bayern
+2147,45,Adults (35-64),M,France,Moselle
+2148,20,Youth (<25),F,France,Seine Saint Denis
+2149,21,Youth (<25),M,France,Nord
+2150,54,Adults (35-64),F,Germany,Bayern
+2151,23,Youth (<25),M,Germany,Hessen
+2152,17,Youth (<25),F,Germany,Saarland
+2153,47,Adults (35-64),M,France,Charente-Maritime
+2154,68,Seniors (64+),M,United States,California
+2155,32,Young Adults (25-34),M,France,Charente-Maritime
+2156,64,Adults (35-64),F,France,Seine (Paris)
+2157,34,Young Adults (25-34),F,France,Val de Marne
+2158,35,Adults (35-64),F,Germany,Brandenburg
+2159,63,Adults (35-64),M,Germany,Nordrhein-Westfalen
+2160,60,Adults (35-64),F,Germany,Nordrhein-Westfalen
+2161,59,Adults (35-64),F,France,Nord
+2162,55,Adults (35-64),M,France,Seine (Paris)
