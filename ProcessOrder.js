@@ -4,14 +4,25 @@ const csv = require('fast-csv')
 const { writeToPath } = require('@fast-csv/format')
 
 const Oder_id = `Oder_id`
+
+// For Time => For Time Id
 const Date = `Date`
 const Day = `Day`
 const Month = `Month`
 const Year = `Year`
+
+// For Customer => Id of customer
+const Customer_Age = `Customer_Age`
+const Age_Group = `Age_Group`
+const Customer_Gender = `Customer_Gender`
+const Country = `Country`
+const State = `State`
+
+// For Product => Id of product
+const Product = `Product`
+
+// For Oder table
 const Order_Quantity = `Order_Quantity`
-const Profit = `Profit`
-const Cost = `Cost`
-const Revenue = `Revenue`
 
 const readDataSales = () => {
     return new Promise((resolve, reject) => {
