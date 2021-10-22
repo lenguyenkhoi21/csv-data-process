@@ -13,7 +13,8 @@
     "product_category_next" : "node ./ProcessSalesNext.js",
     "product_final" : "node ./ProcessSaleProduct.js",
     "customer" : "node ./ProcessCustomer.js",
-    "order" : "node ./ProcessOrder.js"
+    "order" : "node ./ProcessOrder.js",
+    "time" : "node ./ProcessTimeData.js"
   },
   "author": "",
   "license": "ISC",
