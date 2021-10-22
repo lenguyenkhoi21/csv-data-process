@@ -83,8 +83,11 @@ const writeCSV = (data) => {
 // row[`age`] = 23
 // console.log(row)
 
-const string = "Khoi Milu"
-const data = string.split(" ")
+// const string = "Khoi Milu"
+// const data = string.split(" ")
+//
+// console.log(data)
 
-console.log(data)
+const arr_ojb = [{a : 1, b : 2}, {a : 1, b : 2}]
 
+console.log(arr_ojb.length)
