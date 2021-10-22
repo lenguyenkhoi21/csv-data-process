@@ -89,5 +89,6 @@ const writeCSV = (data) => {
 // console.log(data)
 
 const arr_ojb = [{a : 1, b : 2}, {a : 1, b : 2}]
+const z = [{a : 100, b : 100},...arr_ojb]
 
-console.log(arr_ojb.length)
+console.log(z)

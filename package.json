@@ -12,7 +12,8 @@
     "prodcut_category" : "node ./ProcessSales.csv.js",
     "product_category_next" : "node ./ProcessSalesNext.js",
     "product_final" : "node ./ProcessSaleProduct.js",
-    "customer" : "node ./ProcessCustomer.js"
+    "customer" : "node ./ProcessCustomer.js",
+    "order" : "node ./ProcessOrder.js"
   },
   "author": "",
   "license": "ISC",
