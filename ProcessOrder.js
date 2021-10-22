@@ -39,14 +39,26 @@ const readDataSales = () => {
             .on('data', row => {
                 const line = {}
                 line[Oder_id] = ++index
+
+                //For time
                 line[Date] = row[Date]
                 line[Day] = row[Day]
                 line[Month] = row[Month]
                 line[Year] = row[Year]
+
+                // For Customer
+                line[Customer_Age] = row[Customer_Age]
+                line[Age_Group] = row[Age_Group]
+                line[Month] = row[Month]
+                line[Customer_Gender] = row[Customer_Gender]
+                line[Country] = row[Country]
+                line[State] = row[State]
+
+                //For Product
+                line[Product] = row[Product]
+
+                // For Oder
                 line[Order_Quantity] = row[Order_Quantity]
-                line[Profit] = row[Profit]
-                line[Cost] = row[Cost]
-                line[Revenue] = row[Revenue]
                 data.push(line)
             })
             .on('end', rowCount => {
@@ -58,7 +70,7 @@ const readDataSales = () => {
 
 const writeData = (data) => {
 
-    const headers = [Oder_id, Date, Day, Month, Year, Order_Quantity, Profit, Cost, Revenue]
+    const headers = [Oder_id, Date, Day, Month, Year, Customer_Age, Age_Group, Month, Customer_Gender, Country, State, Product, Order_Quantity]
     const output = [headers, ...data]
     const csvFile = 'order.csv'
     writeToPath(path.resolve(__dirname, csvFile), output)
