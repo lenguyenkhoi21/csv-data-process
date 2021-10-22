@@ -49,7 +49,6 @@ const readDataSales = () => {
                 // For Customer
                 line[Customer_Age] = row[Customer_Age]
                 line[Age_Group] = row[Age_Group]
-                line[Month] = row[Month]
                 line[Customer_Gender] = row[Customer_Gender]
                 line[Country] = row[Country]
                 line[State] = row[State]
@@ -70,7 +69,7 @@ const readDataSales = () => {
 
 const writeData = (data) => {
 
-    const headers = [Oder_id, Date, Day, Month, Year, Customer_Age, Age_Group, Month, Customer_Gender, Country, State, Product, Order_Quantity]
+    const headers = [Oder_id, Date, Day, Month, Year, Customer_Age, Age_Group, Customer_Gender, Country, State, Product, Order_Quantity]
     const output = [headers, ...data]
     const csvFile = 'order.csv'
     writeToPath(path.resolve(__dirname, csvFile), output)

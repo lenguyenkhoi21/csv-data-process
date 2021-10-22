@@ -14,9 +14,10 @@
     "product_final" : "node ./ProcessSaleProduct.js",
     "customer" : "node ./ProcessCustomer.js",
     "order" : "node ./ProcessOrder.js",
-    "time" : "node ./ProcessTimeData.js"
+    "time" : "node ./ProcessTimeData.js",
+    "oder_final" : "node ./ProcesssOrderFinal.js"
   },
-  "author": "",
+  "author": "lenguyenkhoi21",
   "license": "ISC",
   "dependencies": {
     "@fast-csv/format": "^4.3.5",
